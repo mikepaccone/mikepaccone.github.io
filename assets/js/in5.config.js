@@ -71,12 +71,12 @@ var sliderSettings = {}, nav = {}, in5 = {layouts:[
  		"index": 1
  	},
  	{
- 		"name": "Mobile",
- 		"class": "mq-201",
- 		"width": 201,
- 		"height": 407,
+ 		"name": "iPhone X V",
+ 		"class": "mq-1125",
+ 		"width": 1125,
+ 		"height": 2436,
  		"default": false,
- 		"trigger": 500,
+ 		"trigger": 1285,
  		"index": 2
  	}
  ]},
