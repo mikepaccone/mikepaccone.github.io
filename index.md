@@ -1,0 +1,888 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>2021 STNL Marketing Package</title>
+<meta name="apple-mobile-web-app-title" content="2021 STNL Marketing Package">
+<meta name="generator" content="In5 v3.6.10">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="initial-scale=1.0,minimum-scale=.2,maximum-scale=1.0,user-scalable=no">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript">window.jQuery || document.write('<script src="assets/js/jquery.min.js"><\/script>')</script>
+<script type="text/javascript" src="assets/js/vmouse.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.scrollTo.min.js"></script>
+<script type="text/javascript" src="assets/js/in5.config.js"></script>
+<link rel="stylesheet" href="assets/css/pages.css" media="all">
+<style media="all and (-ms-high-contrast:none)">*::-ms-backdrop,.svg-img{width:100%;}</style>
+</head>
+<body>
+<!--[if lt IE 10]>
+<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+<![endif]-->
+<div id="loadIndicator"><img src="assets/images/loading.gif" alt="loading..."/><span>&nbsp;</span></div>
+<div id="container-wrap">
+<div id="container">
+<ul class="pages paper-vertical one-page-scroll" id="slider">
+  <li class="page" data-name="01">
+    <div class="page-scale-wrap mq-792" data-layout-name="Print" style="width:792px;height:612px;">
+      <div id="item23897" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item231" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item244" class="pageItem singleline" alt="TENANT NAME">
+        <p class="autoParaStyle1">TENANT NAME</p>
+      </div>
+      <div id="item23948" class="pageItem singleline" alt="12345 STREET ADDRESS, CITY, STATE ZIP">
+        <p class="autoParaStyle2">12345 STREET ADDRESS, CITY, STATE ZIP</p>
+      </div>
+      <div id="item242" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="Rectangle" style="left:297px !important;top:42px !important;" id="item233" data-src="assets/images/item_233.png"/>
+    </div>
+    <div class="page-scale-wrap mq-1920 mq-default" data-layout-name="Presentation V2" style="width:1920px;height:1080px;">
+      <div id="item132836" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item132837" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item132838" class="pageItem singleline" alt="TENANT NAME">
+        <p class="autoParaStyle3">TENANT NAME</p>
+      </div>
+      <div id="item132863" class="pageItem singleline" alt="12345 STREET ADDRESS, CITY, STATE ZIP">
+        <p class="autoParaStyle4">12345 STREET ADDRESS, CITY, STATE ZIP</p>
+      </div>
+      <div id="item132888" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="Rectangle" style="left:786px !important;top:72px !important;" id="item132889" data-src="assets/images/item_132889.png"/>
+    </div>
+    <div class="page-scale-wrap mq-1125" data-layout-name="iPhone X V" style="width:1125px;height:2436px;">
+      <div id="item152964" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item152965" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item152966" class="pageItem singleline" alt="TENANT NAME">
+        <p class="autoParaStyle5">TENANT NAME</p>
+      </div>
+      <div id="item152992" class="pageItem singleline" alt="12345 STREET ADDRESS, CITY, STATE ZIP">
+        <p class="autoParaStyle6">12345 STREET ADDRESS, CITY, STATE ZIP</p>
+      </div>
+      <div id="item153017" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="Rectangle" style="left:461px !important;top:944px !important;" id="item153018" data-src="assets/images/item_153018.png"/>
+    </div>
+  </li>
+  <li class="page" data-name="02">
+    <div class="page-scale-wrap mq-792" data-layout-name="Print" style="width:792px;height:612px;">
+      <div id="item23899" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item74524" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item74220" class="pageItem singleline" alt="12345 STREET ADDRESS, CITY, STATE ZIP">
+        <p class="autoParaStyle8">12345 STREET ADDRESS, CITY, STATE ZIP</p>
+      </div>
+      <div id="item461" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item127439" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item672" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item424" class="pageItem" alt="SUBJECT PROPERTY TABLE OF CONTENTS">
+        <p class="autoParaStyle10">SUBJECT PROPERTY</p>
+        <p class="autoParaStyle9">TABLE OF CONTENTS</p>
+      </div>
+      <div id="item481" class="pageItem singleline" alt="PAGE">
+        <p class="autoParaStyle11">PAGE</p>
+      </div>
+      <div id="item507" class="pageItem singleline" alt="CONTACT INFORMATION">
+        <p class="autoParaStyle11">CONTACT INFORMATION</p>
+      </div>
+      <div id="item532" class="pageItem" alt="Investment Summary Lease Summary Retail Aerial Site Plan Rent Schedule About the Brand Location Overview">
+        <p class="autoParaStyle12">Investment Summary</p>
+        <p class="autoParaStyle12">Lease Summary</p>
+        <p class="autoParaStyle12">Retail Aerial</p>
+        <p class="autoParaStyle12">Site Plan</p>
+        <p class="autoParaStyle12">Rent Schedule</p>
+        <p class="autoParaStyle12">About the Brand</p>
+        <p class="autoParaStyle12">Location Overview</p>
+      </div>
+      <div id="item557" class="pageItem" alt="03 04 05 07 08 09 10">
+        <p class="autoParaStyle13">03</p>
+        <p class="autoParaStyle13">04</p>
+        <p class="autoParaStyle13">05</p>
+        <p class="autoParaStyle13">07</p>
+        <p class="autoParaStyle13">08</p>
+        <p class="autoParaStyle13">09</p>
+        <p class="autoParaStyle13">10</p>
+      </div>
+      <div class="pageItem group" alt="Group" style="left:66px !important;top:160px !important;" id="item24245">
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" id="item24115" data-src="assets/images/item_24115.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="top:18px !important;" id="item24227" data-src="assets/images/item_24227.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="top:36px !important;" id="item24229" data-src="assets/images/item_24229.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="top:54px !important;" id="item24231" data-src="assets/images/item_24231.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="top:72px !important;" id="item24233" data-src="assets/images/item_24233.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="top:90px !important;" id="item24235" data-src="assets/images/item_24235.png"/>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:66px !important;top:269px !important;" id="item24577" data-src="assets/images/item_24577.png"/>
+      <div id="item159785" class="pageItem singleline" alt="02">
+        <p class="autoParaStyle7">02</p>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="Agent 1 - Photo" style="left:66px !important;top:437px !important;" id="item127240" data-src="assets/images/item_127240.png"/>
+      <div id="item127241" class="pageItem" alt="Agent 1">
+        <p class="autoParaStyle16"><span class="autoCharStyle1">first last</span><br /></p>
+        <p class="autoParaStyle15">Title</p>
+        <p class="autoParaStyle14">(000) 000-0000</p>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="Agent 1 - Photo" style="left:66px !important;top:375px !important;" id="item127213" data-src="assets/images/item_127213.png"/>
+      <div id="item127214" class="pageItem" alt="Agent 1">
+        <p class="autoParaStyle16"><span class="autoCharStyle1">first last</span><br /></p>
+        <p class="autoParaStyle15">Title</p>
+        <p class="autoParaStyle14">(000) 000-0000</p>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="Agent 1 - Photo" style="left:66px !important;top:314px !important;" id="item18730" data-src="assets/images/item_18730.png"/>
+      <div id="item18734" class="pageItem" alt="Agent 1">
+        <p class="autoParaStyle16"><span class="autoCharStyle1">first last</span><br /></p>
+        <p class="autoParaStyle15">Title</p>
+        <p class="autoParaStyle14">(000) 000-0000</p>
+      </div>
+    </div>
+    <div class="page-scale-wrap mq-1920 mq-default" data-layout-name="Presentation V2" style="width:1920px;height:1080px;">
+      <div id="item138188" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item132922" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item132923" class="pageItem singleline" alt="12345 STREET ADDRESS, CITY, STATE ZIP">
+        <p class="autoParaStyle18">12345 STREET ADDRESS, CITY, STATE ZIP</p>
+      </div>
+      <div id="item132948" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item138149" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item132949" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item132950" class="pageItem" alt="SUBJECT PROPERTY TABLE OF CONTENTS">
+        <p class="autoParaStyle20">SUBJECT PROPERTY</p>
+        <p class="autoParaStyle19">TABLE OF CONTENTS</p>
+      </div>
+      <div id="item132975" class="pageItem singleline" alt="PAGE">
+        <p class="autoParaStyle21">PAGE</p>
+      </div>
+      <div id="item133000" class="pageItem singleline" alt="CONTACT INFORMATION">
+        <p class="autoParaStyle21">CONTACT INFORMATION</p>
+      </div>
+      <div id="item133025" class="pageItem" alt="Investment Summary Lease Summary Retail Aerial Site Plan Rent Schedule About the Brand Location Overview">
+        <p class="autoParaStyle22">Investment Summary</p>
+        <p class="autoParaStyle22">Lease Summary</p>
+        <p class="autoParaStyle22">Retail Aerial</p>
+        <p class="autoParaStyle22">Site Plan</p>
+        <p class="autoParaStyle22">Rent Schedule</p>
+        <p class="autoParaStyle22">About the Brand</p>
+        <p class="autoParaStyle22">Location Overview</p>
+      </div>
+      <div id="item133050" class="pageItem" alt="03 04 05 07 08 09 10">
+        <p class="autoParaStyle23">03</p>
+        <p class="autoParaStyle23">04</p>
+        <p class="autoParaStyle23">05</p>
+        <p class="autoParaStyle23">07</p>
+        <p class="autoParaStyle23">08</p>
+        <p class="autoParaStyle23">09</p>
+        <p class="autoParaStyle23">10</p>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:115px !important;top:255px !important;" id="item133076" data-src="assets/images/item_133076.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:115px !important;top:286px !important;" id="item133077" data-src="assets/images/item_133077.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:115px !important;top:318px !important;" id="item133078" data-src="assets/images/item_133078.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:115px !important;top:350px !important;" id="item133080" data-src="assets/images/item_133080.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:115px !important;top:382px !important;" id="item133081" data-src="assets/images/item_133081.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:115px !important;top:414px !important;" id="item133082" data-src="assets/images/item_133082.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:115px !important;top:448px !important;" id="item133083" data-src="assets/images/item_133083.png"/>
+      <div id="item159406" class="pageItem singleline" alt="02">
+        <p class="autoParaStyle17">02</p>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="Agent 1 - Photo" style="left:115px !important;top:744px !important;" id="item133085" data-src="assets/images/item_133085.png"/>
+      <div id="item133086" class="pageItem" alt="Agent 1">
+        <p class="autoParaStyle26"><span class="autoCharStyle2">first last</span><br /></p>
+        <p class="autoParaStyle25">Title</p>
+        <p class="autoParaStyle24">(000) 000-0000</p>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="Agent 1 - Photo" style="left:115px !important;top:635px !important;" id="item133112" data-src="assets/images/item_133112.png"/>
+      <div id="item133113" class="pageItem" alt="Agent 1">
+        <p class="autoParaStyle26"><span class="autoCharStyle2">first last</span><br /></p>
+        <p class="autoParaStyle25">Title</p>
+        <p class="autoParaStyle24">(000) 000-0000</p>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="Agent 1 - Photo" style="left:115px !important;top:526px !important;" id="item133139" data-src="assets/images/item_133139.png"/>
+      <div id="item133140" class="pageItem" alt="Agent 1">
+        <p class="autoParaStyle26"><span class="autoCharStyle2">first last</span><br /></p>
+        <p class="autoParaStyle25">Title</p>
+        <p class="autoParaStyle24">(000) 000-0000</p>
+      </div>
+    </div>
+    <div class="page-scale-wrap mq-1125" data-layout-name="iPhone X V" style="width:1125px;height:2436px;">
+      <div id="item157735" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item153055" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item153056" class="pageItem singleline" alt="12345 STREET ADDRESS, CITY, STATE ZIP">
+        <p class="autoParaStyle28">12345 STREET ADDRESS, CITY, STATE ZIP</p>
+      </div>
+      <div id="item153081" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item157736" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item153082" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item153083" class="pageItem" alt="SUBJECT PROPERTY TABLE OF CONTENTS">
+        <p class="autoParaStyle30">SUBJECT PROPERTY</p>
+        <p class="autoParaStyle29">TABLE OF CONTENTS</p>
+      </div>
+      <div id="item153108" class="pageItem singleline" alt="PAGE">
+        <p class="autoParaStyle31">PAGE</p>
+      </div>
+      <div id="item153133" class="pageItem singleline" alt="CONTACT INFORMATION">
+        <p class="autoParaStyle31">CONTACT INFORMATION</p>
+      </div>
+      <div id="item153158" class="pageItem" alt="Investment Summary Lease Summary Retail Aerial Site Plan Rent Schedule About the Brand Location Overview">
+        <p class="autoParaStyle32">Investment Summary</p>
+        <p class="autoParaStyle32">Lease Summary</p>
+        <p class="autoParaStyle32">Retail Aerial</p>
+        <p class="autoParaStyle32">Site Plan</p>
+        <p class="autoParaStyle32">Rent Schedule</p>
+        <p class="autoParaStyle32">About the Brand</p>
+        <p class="autoParaStyle32">Location Overview</p>
+      </div>
+      <div id="item153183" class="pageItem" alt="03 04 05 07 08 09 10">
+        <p class="autoParaStyle33">03</p>
+        <p class="autoParaStyle33">04</p>
+        <p class="autoParaStyle33">05</p>
+        <p class="autoParaStyle33">07</p>
+        <p class="autoParaStyle33">08</p>
+        <p class="autoParaStyle33">09</p>
+        <p class="autoParaStyle33">10</p>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:67px !important;top:1051px !important;" id="item153208" data-src="assets/images/item_153208.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:67px !important;top:1069px !important;" id="item153209" data-src="assets/images/item_153209.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:67px !important;top:1088px !important;" id="item153210" data-src="assets/images/item_153210.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:67px !important;top:1107px !important;" id="item153211" data-src="assets/images/item_153211.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:67px !important;top:1125px !important;" id="item153212" data-src="assets/images/item_153212.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:67px !important;top:1144px !important;" id="item153213" data-src="assets/images/item_153213.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:67px !important;top:1164px !important;" id="item153215" data-src="assets/images/item_153215.png"/>
+      <div id="item159004" class="pageItem singleline" alt="02">
+        <p class="autoParaStyle27">02</p>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="Agent 1 - Photo" style="left:67px !important;top:1337px !important;" id="item153228" data-src="assets/images/item_153228.png"/>
+      <div id="item153229" class="pageItem" alt="Agent 1">
+        <p class="autoParaStyle36"><span class="autoCharStyle3">first last</span><br /></p>
+        <p class="autoParaStyle35">Title</p>
+        <p class="autoParaStyle34">(000) 000-0000</p>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="Agent 1 - Photo" style="left:67px !important;top:1274px !important;" id="item153254" data-src="assets/images/item_153254.png"/>
+      <div id="item153255" class="pageItem" alt="Agent 1">
+        <p class="autoParaStyle36"><span class="autoCharStyle3">first last</span><br /></p>
+        <p class="autoParaStyle35">Title</p>
+        <p class="autoParaStyle34">(000) 000-0000</p>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="Agent 1 - Photo" style="left:67px !important;top:1210px !important;" id="item153280" data-src="assets/images/item_153280.png"/>
+      <div id="item153282" class="pageItem" alt="Agent 1">
+        <p class="autoParaStyle36"><span class="autoCharStyle3">first last</span><br /></p>
+        <p class="autoParaStyle35">Title</p>
+        <p class="autoParaStyle34">(000) 000-0000</p>
+      </div>
+    </div>
+  </li>
+  <li class="page" data-name="03">
+    <div class="page-scale-wrap mq-792" data-layout-name="Print" style="width:792px;height:612px;">
+      <div id="item23901" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item74599" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item24354" class="pageItem singleline" alt="CONTACT   AGENT NAME  ">
+        <p class="autoParaStyle37">CONTACT &lt;&lt;AGENT NAME&gt;&gt;</p>
+      </div>
+      <div id="item13602" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item13603" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item127439" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item13604" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item13605" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item13606" class="pageItem" alt="SUBJECT PROPERTY INVESTMENT SUMMARY">
+        <p class="autoParaStyle38">SUBJECT PROPERTY</p>
+        <p class="autoParaStyle9">INVESTMENT SUMMARY</p>
+      </div>
+      <div id="item14219" class="pageItem" alt="Tenant Street Address City State Zip GLA Lot Size Year Built *Optional Note">
+        <p class="autoParaStyle40">Tenant</p>
+        <p class="autoParaStyle40">Street Address</p>
+        <p class="autoParaStyle40">City</p>
+        <p class="autoParaStyle40">State</p>
+        <p class="autoParaStyle40">Zip</p>
+        <p class="autoParaStyle40">GLA</p>
+        <p class="autoParaStyle40">Lot Size</p>
+        <p class="autoParaStyle40">Year Built</p>
+        <p class="autoParaStyle39">*Optional Note</p>
+      </div>
+      <div id="item14244" class="pageItem" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum">
+        <p class="autoParaStyle48">Lorem Ipsum</p>
+        <p class="autoParaStyle47">Lorem Ipsum</p>
+        <p class="autoParaStyle46">Lorem Ipsum</p>
+        <p class="autoParaStyle45">Lorem Ipsum</p>
+        <p class="autoParaStyle44">Lorem Ipsum</p>
+        <p class="autoParaStyle43">Lorem Ipsum</p>
+        <p class="autoParaStyle42">Lorem Ipsum</p>
+        <p class="autoParaStyle41">Lorem Ipsum</p>
+      </div>
+      <div id="item14545" class="pageItem" alt="Lorem ipsum Lorem ipsum dolor sit unde enim amet, consectetur adipiscing elit, sed omnis qui do eiusmod tempor incidi   ">
+        <p class="autoParaStyle50">Lorem ipsum</p>
+        <p class="autoParaStyle49"><span class="autoCharStyle4">Lorem ipsum dolor sit unde enim amet, consectetur </span>adipiscing elit, sed omnis qui do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.<br /></p>
+        <p class="autoParaStyle50"><br /></p>
+        <p class="autoParaStyle50">Lorem ipsum</p>
+        <p class="autoParaStyle49"><span class="autoCharStyle4">Lorem ipsum dolor sit unde enim amet, consectetur </span>adipiscing elit, sed omnis qui do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.<br /></p>
+        <p class="autoParaStyle49"><br /></p>
+        <p class="autoParaStyle50">Lorem ipsum</p>
+        <p class="autoParaStyle49"><span class="autoCharStyle4">Lorem ipsum dolor sit unde enim amet, consectetur </span>adipiscing elit, sed omnis qui do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+      </div>
+      <div class="pageItem group" alt="Group" style="left:66px !important;top:144px !important;" id="item24353">
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" id="item24247" data-src="assets/images/item_24247.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="top:18px !important;" id="item24249" data-src="assets/images/item_24249.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="top:36px !important;" id="item24250" data-src="assets/images/item_24250.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="top:54px !important;" id="item24251" data-src="assets/images/item_24251.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="top:72px !important;" id="item24252" data-src="assets/images/item_24252.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="top:90px !important;" id="item24253" data-src="assets/images/item_24253.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="top:108px !important;" id="item24346" data-src="assets/images/item_24346.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="top:126px !important;" id="item24343" data-src="assets/images/item_24343.png"/>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="Agent 1 - Photo" style="left:285px !important;top:126px !important;" id="item131969" data-src="assets/images/item_131969.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="Agent 1 - Photo" style="left:402px !important;top:126px !important;" id="item132156" data-src="assets/images/item_132156.png"/>
+      <div id="item131971" class="pageItem" alt="Agent 1">
+        <p class="autoParaStyle16"><span class="autoCharStyle1">&#36;0,000,000</span><br /></p>
+        <p class="autoParaStyle51">List Price</p>
+      </div>
+      <div id="item132157" class="pageItem" alt="Agent 1">
+        <p class="autoParaStyle16"><span class="autoCharStyle1">&#36;0,000</span><br /></p>
+        <p class="autoParaStyle51">Price / SF</p>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="Agent 1 - Photo" style="left:285px !important;top:180px !important;" id="item132012" data-src="assets/images/item_132012.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="Agent 1 - Photo" style="left:402px !important;top:180px !important;" id="item132182" data-src="assets/images/item_132182.png"/>
+      <div id="item132013" class="pageItem" alt="Agent 1">
+        <p class="autoParaStyle16"><span class="autoCharStyle1">0.00%</span><br /></p>
+        <p class="autoParaStyle51">Cap Rate</p>
+      </div>
+      <div id="item132183" class="pageItem" alt="Agent 1">
+        <p class="autoParaStyle16"><span class="autoCharStyle1">0.00%</span><br /></p>
+        <p class="autoParaStyle51">Lorem</p>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="Agent 1 - Photo" style="left:285px !important;top:234px !important;" id="item132039" data-src="assets/images/item_132039.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="Agent 1 - Photo" style="left:402px !important;top:234px !important;" id="item132208" data-src="assets/images/item_132208.png"/>
+      <div id="item132040" class="pageItem" alt="Agent 1">
+        <p class="autoParaStyle16"><span class="autoCharStyle1">&#36;000,000</span><br /></p>
+        <p class="autoParaStyle51">NOI</p>
+      </div>
+      <div id="item132209" class="pageItem" alt="Agent 1">
+        <p class="autoParaStyle16"><span class="autoCharStyle1">&#36;000</span><br /></p>
+        <p class="autoParaStyle51">Rent / SF</p>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:285px !important;top:121px !important;mix-blend-mode:overlay;" id="item132247" data-src="assets/images/item_132247.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:402px !important;top:121px !important;mix-blend-mode:overlay;" id="item132344" data-src="assets/images/item_132344.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:285px !important;top:175px !important;mix-blend-mode:overlay;" id="item132280" data-src="assets/images/item_132280.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:402px !important;top:175px !important;mix-blend-mode:overlay;" id="item132369" data-src="assets/images/item_132369.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:285px !important;top:229px !important;mix-blend-mode:overlay;" id="item132312" data-src="assets/images/item_132312.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:402px !important;top:229px !important;mix-blend-mode:overlay;" id="item132394" data-src="assets/images/item_132394.png"/>
+      <div id="item132499" class="pageItem singleline" alt=" ">
+        <p class="autoParaStyle52">&#36;</p>
+      </div>
+      <div id="item132532" class="pageItem singleline" alt=" ">
+        <p class="autoParaStyle52">&#36;</p>
+      </div>
+      <div id="item132582" class="pageItem singleline" alt="%">
+        <p class="autoParaStyle52">%</p>
+      </div>
+      <div id="item132634" class="pageItem singleline" alt="%">
+        <p class="autoParaStyle52">%</p>
+      </div>
+      <div id="item132504" class="pageItem singleline" alt=" ">
+        <p class="autoParaStyle52">&#36;</p>
+      </div>
+      <div id="item132557" class="pageItem singleline" alt=" ">
+        <p class="autoParaStyle52">&#36;</p>
+      </div>
+      <div id="item159760" class="pageItem singleline" alt="03">
+        <p class="autoParaStyle7">03</p>
+      </div>
+    </div>
+    <div class="page-scale-wrap mq-1920 mq-default" data-layout-name="Presentation V2" style="width:1920px;height:1080px;">
+      <div id="item138188" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item133193" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item133194" class="pageItem singleline" alt="CONTACT   AGENT NAME  ">
+        <p class="autoParaStyle53">CONTACT &lt;&lt;AGENT NAME&gt;&gt;</p>
+      </div>
+      <div id="item133219" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item138221" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item138149" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item133221" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item138281" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item133223" class="pageItem" alt="SUBJECT PROPERTY INVESTMENT SUMMARY">
+        <p class="autoParaStyle54">SUBJECT PROPERTY</p>
+        <p class="autoParaStyle19">INVESTMENT SUMMARY</p>
+      </div>
+      <div id="item133248" class="pageItem" alt="Tenant Street Address City State Zip GLA Lot Size Year Built *Optional Note">
+        <p class="autoParaStyle56">Tenant</p>
+        <p class="autoParaStyle56">Street Address</p>
+        <p class="autoParaStyle56">City</p>
+        <p class="autoParaStyle56">State</p>
+        <p class="autoParaStyle56">Zip</p>
+        <p class="autoParaStyle56">GLA</p>
+        <p class="autoParaStyle56">Lot Size</p>
+        <p class="autoParaStyle56">Year Built</p>
+        <p class="autoParaStyle55">*Optional Note</p>
+      </div>
+      <div id="item133273" class="pageItem" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum">
+        <p class="autoParaStyle64">Lorem Ipsum</p>
+        <p class="autoParaStyle63">Lorem Ipsum</p>
+        <p class="autoParaStyle62">Lorem Ipsum</p>
+        <p class="autoParaStyle61">Lorem Ipsum</p>
+        <p class="autoParaStyle60">Lorem Ipsum</p>
+        <p class="autoParaStyle59">Lorem Ipsum</p>
+        <p class="autoParaStyle58">Lorem Ipsum</p>
+        <p class="autoParaStyle57">Lorem Ipsum</p>
+      </div>
+      <div id="item133298" class="pageItem" alt="Lorem ipsum Lorem ipsum dolor sit unde enim amet, consectetur adipiscing elit, sed omnis qui do eiusmod tempor incidi   ">
+        <p class="autoParaStyle66">Lorem ipsum</p>
+        <p class="autoParaStyle65"><span class="autoCharStyle6">Lorem ipsum dolor sit unde enim amet, consectetur </span>adipiscing elit, sed omnis qui do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.<br /></p>
+        <p class="autoParaStyle66"><br /></p>
+        <p class="autoParaStyle66">Lorem ipsum</p>
+        <p class="autoParaStyle65"><span class="autoCharStyle6">Lorem ipsum dolor sit unde enim amet, consectetur </span>adipiscing elit, sed omnis qui do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.<br /></p>
+        <p class="autoParaStyle65"><br /></p>
+        <p class="autoParaStyle66">Lorem ipsum</p>
+        <p class="autoParaStyle65"><span class="autoCharStyle6">Lorem ipsum dolor sit unde enim amet, consectetur </span>adipiscing elit, sed omnis qui do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:115px !important;top:228px !important;" id="item133324" data-src="assets/images/item_133324.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:115px !important;top:259px !important;" id="item133326" data-src="assets/images/item_133326.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:115px !important;top:291px !important;" id="item133327" data-src="assets/images/item_133327.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:115px !important;top:323px !important;" id="item133328" data-src="assets/images/item_133328.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:115px !important;top:355px !important;" id="item133329" data-src="assets/images/item_133329.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:115px !important;top:386px !important;" id="item133330" data-src="assets/images/item_133330.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:115px !important;top:418px !important;" id="item133332" data-src="assets/images/item_133332.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:115px !important;top:450px !important;" id="item133333" data-src="assets/images/item_133333.png"/>
+      <div id="item133336" class="pageItem" alt="Agent 1">
+        <p class="autoParaStyle26"><span class="autoCharStyle2">&#36;0,000,000</span><br /></p>
+        <p class="autoParaStyle67">List Price</p>
+      </div>
+      <div id="item133362" class="pageItem" alt="Agent 1">
+        <p class="autoParaStyle26"><span class="autoCharStyle2">&#36;0,000</span><br /></p>
+        <p class="autoParaStyle67">Price / SF</p>
+      </div>
+      <div id="item133389" class="pageItem" alt="Agent 1">
+        <p class="autoParaStyle26"><span class="autoCharStyle2">0.00%</span><br /></p>
+        <p class="autoParaStyle67">Cap Rate</p>
+      </div>
+      <div id="item133414" class="pageItem" alt="Agent 1">
+        <p class="autoParaStyle26"><span class="autoCharStyle2">0.00%</span><br /></p>
+        <p class="autoParaStyle67">Lorem</p>
+      </div>
+      <div id="item133441" class="pageItem" alt="Agent 1">
+        <p class="autoParaStyle26"><span class="autoCharStyle2">&#36;000,000</span><br /></p>
+        <p class="autoParaStyle67">Net Operating Income</p>
+      </div>
+      <div id="item133466" class="pageItem" alt="Agent 1">
+        <p class="autoParaStyle26"><span class="autoCharStyle2">&#36;000</span><br /></p>
+        <p class="autoParaStyle67">Rent / SF</p>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="Agent 1 - Photo" style="left:588px !important;top:195px !important;" id="item133334" data-src="assets/images/item_133334.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:588px !important;top:186px !important;mix-blend-mode:overlay;" id="item133491" data-src="assets/images/item_133491.png"/>
+      <div id="item133642" class="pageItem singleline" alt=" ">
+        <p class="autoParaStyle68">&#36;</p>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="Agent 1 - Photo" style="left:588px !important;top:386px !important;" id="item133439" data-src="assets/images/item_133439.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:588px !important;top:377px !important;mix-blend-mode:overlay;" id="item133592" data-src="assets/images/item_133592.png"/>
+      <div id="item133668" class="pageItem singleline" alt=" ">
+        <p class="autoParaStyle68">&#36;</p>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="Agent 1 - Photo" style="left:588px !important;top:291px !important;" id="item133387" data-src="assets/images/item_133387.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:588px !important;top:282px !important;mix-blend-mode:overlay;" id="item133541" data-src="assets/images/item_133541.png"/>
+      <div id="item133693" class="pageItem singleline" alt="%">
+        <p class="autoParaStyle68">%</p>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="Agent 1 - Photo" style="left:861px !important;top:291px !important;" id="item133388" data-src="assets/images/item_133388.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:861px !important;top:282px !important;mix-blend-mode:overlay;" id="item133567" data-src="assets/images/item_133567.png"/>
+      <div id="item133718" class="pageItem singleline" alt="%">
+        <p class="autoParaStyle68">%</p>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="Agent 1 - Photo" style="left:861px !important;top:195px !important;" id="item133335" data-src="assets/images/item_133335.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:861px !important;top:186px !important;mix-blend-mode:overlay;" id="item133516" data-src="assets/images/item_133516.png"/>
+      <div id="item133743" class="pageItem singleline" alt=" ">
+        <p class="autoParaStyle68">&#36;</p>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="Agent 1 - Photo" style="left:861px !important;top:386px !important;" id="item133440" data-src="assets/images/item_133440.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:861px !important;top:377px !important;mix-blend-mode:overlay;" id="item133617" data-src="assets/images/item_133617.png"/>
+      <div id="item133768" class="pageItem singleline" alt=" ">
+        <p class="autoParaStyle68">&#36;</p>
+      </div>
+      <div id="item159378" class="pageItem singleline" alt="03">
+        <p class="autoParaStyle17">03</p>
+      </div>
+    </div>
+    <div class="page-scale-wrap mq-1125" data-layout-name="iPhone X V" style="width:1125px;height:2436px;">
+      <div id="item157735" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item153334" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item153335" class="pageItem singleline" alt="CONTACT   AGENT NAME  ">
+        <p class="autoParaStyle69">CONTACT &lt;&lt;AGENT NAME&gt;&gt;</p>
+      </div>
+      <div id="item153360" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item153361" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item157736" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item153362" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item153363" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item153364" class="pageItem" alt="SUBJECT PROPERTY INVESTMENT SUMMARY">
+        <p class="autoParaStyle70">SUBJECT PROPERTY</p>
+        <p class="autoParaStyle29">INVESTMENT SUMMARY</p>
+      </div>
+      <div id="item153389" class="pageItem" alt="Tenant Street Address City State Zip GLA Lot Size Year Built *Optional Note">
+        <p class="autoParaStyle72">Tenant</p>
+        <p class="autoParaStyle72">Street Address</p>
+        <p class="autoParaStyle72">City</p>
+        <p class="autoParaStyle72">State</p>
+        <p class="autoParaStyle72">Zip</p>
+        <p class="autoParaStyle72">GLA</p>
+        <p class="autoParaStyle72">Lot Size</p>
+        <p class="autoParaStyle72">Year Built</p>
+        <p class="autoParaStyle71">*Optional Note</p>
+      </div>
+      <div id="item153414" class="pageItem" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum">
+        <p class="autoParaStyle80">Lorem Ipsum</p>
+        <p class="autoParaStyle79">Lorem Ipsum</p>
+        <p class="autoParaStyle78">Lorem Ipsum</p>
+        <p class="autoParaStyle77">Lorem Ipsum</p>
+        <p class="autoParaStyle76">Lorem Ipsum</p>
+        <p class="autoParaStyle75">Lorem Ipsum</p>
+        <p class="autoParaStyle74">Lorem Ipsum</p>
+        <p class="autoParaStyle73">Lorem Ipsum</p>
+      </div>
+      <div id="item153440" class="pageItem" alt="Lorem ipsum Lorem ipsum dolor sit unde enim amet, consectetur adipiscing elit, sed omnis qui do eiusmod tempor incidi   ">
+        <p class="autoParaStyle82">Lorem ipsum</p>
+        <p class="autoParaStyle81"><span class="autoCharStyle7">Lorem ipsum dolor sit unde enim amet, consectetur </span>adipiscing elit, sed omnis qui do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.<br /></p>
+        <p class="autoParaStyle82"><br /></p>
+        <p class="autoParaStyle82">Lorem ipsum</p>
+        <p class="autoParaStyle81"><span class="autoCharStyle7">Lorem ipsum dolor sit unde enim amet, consectetur </span>adipiscing elit, sed omnis qui do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.<br /></p>
+        <p class="autoParaStyle81"><br /></p>
+        <p class="autoParaStyle82">Lorem ipsum</p>
+        <p class="autoParaStyle81"><span class="autoCharStyle7">Lorem ipsum dolor sit unde enim amet, consectetur </span>adipiscing elit, sed omnis qui do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:67px !important;top:1035px !important;" id="item153465" data-src="assets/images/item_153465.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:67px !important;top:1053px !important;" id="item153466" data-src="assets/images/item_153466.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:67px !important;top:1072px !important;" id="item153467" data-src="assets/images/item_153467.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:67px !important;top:1091px !important;" id="item153468" data-src="assets/images/item_153468.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:67px !important;top:1109px !important;" id="item153469" data-src="assets/images/item_153469.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:67px !important;top:1128px !important;" id="item153470" data-src="assets/images/item_153470.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:67px !important;top:1147px !important;" id="item153471" data-src="assets/images/item_153471.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:67px !important;top:1165px !important;" id="item153472" data-src="assets/images/item_153472.png"/>
+      <div id="item153473" class="pageItem" alt="Agent 1">
+        <p class="autoParaStyle36"><span class="autoCharStyle3">&#36;0,000,000</span><br /></p>
+        <p class="autoParaStyle83">List Price</p>
+      </div>
+      <div id="item153498" class="pageItem" alt="Agent 1">
+        <p class="autoParaStyle36"><span class="autoCharStyle3">&#36;0,000</span><br /></p>
+        <p class="autoParaStyle83">Price / SF</p>
+      </div>
+      <div id="item153523" class="pageItem" alt="Agent 1">
+        <p class="autoParaStyle36"><span class="autoCharStyle3">0.00%</span><br /></p>
+        <p class="autoParaStyle83">Cap Rate</p>
+      </div>
+      <div id="item153548" class="pageItem" alt="Agent 1">
+        <p class="autoParaStyle36"><span class="autoCharStyle3">0.00%</span><br /></p>
+        <p class="autoParaStyle83">Lorem</p>
+      </div>
+      <div id="item153573" class="pageItem" alt="Agent 1">
+        <p class="autoParaStyle36"><span class="autoCharStyle3">&#36;000,000</span><br /></p>
+        <p class="autoParaStyle83">Net Operating Income</p>
+      </div>
+      <div id="item153598" class="pageItem" alt="Agent 1">
+        <p class="autoParaStyle36"><span class="autoCharStyle3">&#36;000</span><br /></p>
+        <p class="autoParaStyle83">Rent / SF</p>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="Agent 1 - Photo" style="left:345px !important;top:1016px !important;" id="item153623" data-src="assets/images/item_153623.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:345px !important;top:1011px !important;mix-blend-mode:overlay;" id="item153624" data-src="assets/images/item_153624.png"/>
+      <div id="item153649" class="pageItem singleline" alt=" ">
+        <p class="autoParaStyle84">&#36;</p>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="Agent 1 - Photo" style="left:345px !important;top:1128px !important;" id="item153674" data-src="assets/images/item_153674.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:345px !important;top:1123px !important;mix-blend-mode:overlay;" id="item153675" data-src="assets/images/item_153675.png"/>
+      <div id="item153701" class="pageItem singleline" alt=" ">
+        <p class="autoParaStyle84">&#36;</p>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="Agent 1 - Photo" style="left:345px !important;top:1072px !important;" id="item153727" data-src="assets/images/item_153727.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:345px !important;top:1067px !important;mix-blend-mode:overlay;" id="item153728" data-src="assets/images/item_153728.png"/>
+      <div id="item153753" class="pageItem singleline" alt="%">
+        <p class="autoParaStyle84">%</p>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="Agent 1 - Photo" style="left:504px !important;top:1072px !important;" id="item153778" data-src="assets/images/item_153778.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:504px !important;top:1067px !important;mix-blend-mode:overlay;" id="item153779" data-src="assets/images/item_153779.png"/>
+      <div id="item153804" class="pageItem singleline" alt="%">
+        <p class="autoParaStyle84">%</p>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="Agent 1 - Photo" style="left:504px !important;top:1016px !important;" id="item153829" data-src="assets/images/item_153829.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:504px !important;top:1011px !important;mix-blend-mode:overlay;" id="item153830" data-src="assets/images/item_153830.png"/>
+      <div id="item153856" class="pageItem singleline" alt=" ">
+        <p class="autoParaStyle84">&#36;</p>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="Agent 1 - Photo" style="left:504px !important;top:1128px !important;" id="item153881" data-src="assets/images/item_153881.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:504px !important;top:1123px !important;mix-blend-mode:overlay;" id="item153882" data-src="assets/images/item_153882.png"/>
+      <div id="item153907" class="pageItem singleline" alt=" ">
+        <p class="autoParaStyle84">&#36;</p>
+      </div>
+      <div id="item158976" class="pageItem singleline" alt="03">
+        <p class="autoParaStyle27">03</p>
+      </div>
+    </div>
+  </li>
+  <li class="page" data-name="04">
+    <div class="page-scale-wrap mq-792" data-layout-name="Print" style="width:792px;height:612px;">
+      <div id="item23903" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item74605" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item24383" class="pageItem singleline" alt="CONTACT   AGENT NAME  ">
+        <p class="autoParaStyle85">CONTACT &lt;&lt;AGENT NAME&gt;&gt;</p>
+      </div>
+      <div id="item3347" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item3348" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item127439" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item3349" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item3350" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item3352" class="pageItem" alt="SUBJECT PROPERTY LEASE SUMMARY">
+        <p class="autoParaStyle86">SUBJECT PROPERTY</p>
+        <p class="autoParaStyle9">LEASE SUMMARY</p>
+      </div>
+      <div id="item14348" class="pageItem" alt="Lease Type Type of Ownership Original Lease Term Commencement Date Lease Expiration Term Remaining Increases Options    ">
+        <p class="autoParaStyle88">Lease Type</p>
+        <p class="autoParaStyle88">Type of Ownership</p>
+        <p class="autoParaStyle88">Original Lease Term</p>
+        <p class="autoParaStyle88">Commencement Date</p>
+        <p class="autoParaStyle88">Lease Expiration</p>
+        <p class="autoParaStyle88">Term Remaining</p>
+        <p class="autoParaStyle88">Increases</p>
+        <p class="autoParaStyle88">Options</p>
+        <p class="autoParaStyle87">*Optional Note</p>
+      </div>
+      <div id="item14373" class="pageItem" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum">
+        <p class="autoParaStyle96">Lorem Ipsum</p>
+        <p class="autoParaStyle95">Lorem Ipsum</p>
+        <p class="autoParaStyle94">Lorem Ipsum</p>
+        <p class="autoParaStyle93">Lorem Ipsum</p>
+        <p class="autoParaStyle92">Lorem Ipsum</p>
+        <p class="autoParaStyle91">Lorem Ipsum</p>
+        <p class="autoParaStyle90">Lorem Ipsum</p>
+        <p class="autoParaStyle89">Lorem Ipsum</p>
+      </div>
+      <div id="item14435" class="pageItem" alt="Real Estate Taxes Insurance Roof & Structure Lease Guarantor Company Name Ownership Years in Business Number of Locat   ">
+        <p class="autoParaStyle88">Real Estate Taxes</p>
+        <p class="autoParaStyle88">Insurance</p>
+        <p class="autoParaStyle88">Roof &amp; Structure</p>
+        <p class="autoParaStyle88">Lease Guarantor</p>
+        <p class="autoParaStyle88">Company Name</p>
+        <p class="autoParaStyle88">Ownership</p>
+        <p class="autoParaStyle88">Years in Business</p>
+        <p class="autoParaStyle88">Number of Locations</p>
+        <p class="autoParaStyle87">*Optional Note</p>
+      </div>
+      <div id="item14460" class="pageItem" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum">
+        <p class="autoParaStyle96">Lorem Ipsum</p>
+        <p class="autoParaStyle95">Lorem Ipsum</p>
+        <p class="autoParaStyle94">Lorem Ipsum</p>
+        <p class="autoParaStyle93">Lorem Ipsum</p>
+        <p class="autoParaStyle92">Lorem Ipsum</p>
+        <p class="autoParaStyle91">Lorem Ipsum</p>
+        <p class="autoParaStyle90">Lorem Ipsum</p>
+        <p class="autoParaStyle89">Lorem Ipsum</p>
+      </div>
+      <div class="pageItem group" alt="Group" style="left:66px !important;top:144px !important;" id="item24413">
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" id="item24414" data-src="assets/images/item_24414.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="top:18px !important;" id="item24416" data-src="assets/images/item_24416.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="top:36px !important;" id="item24417" data-src="assets/images/item_24417.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="top:54px !important;" id="item24418" data-src="assets/images/item_24418.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="top:72px !important;" id="item24419" data-src="assets/images/item_24419.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="top:90px !important;" id="item24420" data-src="assets/images/item_24420.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="top:108px !important;" id="item24421" data-src="assets/images/item_24421.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="top:126px !important;" id="item24422" data-src="assets/images/item_24422.png"/>
+      </div>
+      <div class="pageItem group" alt="Group" style="left:285px !important;top:144px !important;" id="item24423">
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" id="item24424" data-src="assets/images/item_24424.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="top:18px !important;" id="item24425" data-src="assets/images/item_24425.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="top:36px !important;" id="item24426" data-src="assets/images/item_24426.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="top:54px !important;" id="item24427" data-src="assets/images/item_24427.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="top:72px !important;" id="item24428" data-src="assets/images/item_24428.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="top:90px !important;" id="item24429" data-src="assets/images/item_24429.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="top:108px !important;" id="item24430" data-src="assets/images/item_24430.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="top:126px !important;" id="item24432" data-src="assets/images/item_24432.png"/>
+      </div>
+      <div id="item24498" class="pageItem" alt="Lorem ipsum Lorem ipsum dolor sit unde enim amet, consectetur adipiscing elit, sed omnis qui do eiusmod tempor incidi   ">
+        <p class="autoParaStyle50">Lorem ipsum</p>
+        <p class="autoParaStyle49"><span class="autoCharStyle4">Lorem ipsum dolor sit unde enim amet, consectetur </span>adipiscing elit, sed omnis qui do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.<br /></p>
+        <p class="autoParaStyle50"><br /></p>
+        <p class="autoParaStyle50">Lorem ipsum</p>
+        <p class="autoParaStyle49"><span class="autoCharStyle4">Lorem ipsum dolor sit unde enim amet, consectetur </span>adipiscing elit, sed omnis qui do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.<br /></p>
+        <p class="autoParaStyle49"><br /></p>
+        <p class="autoParaStyle50">Lorem ipsum</p>
+        <p class="autoParaStyle49"><span class="autoCharStyle4">Lorem ipsum dolor sit unde enim amet, consectetur </span>adipiscing elit, sed omnis qui do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+      </div>
+      <div id="item159735" class="pageItem singleline" alt="04">
+        <p class="autoParaStyle7">04</p>
+      </div>
+    </div>
+    <div class="page-scale-wrap mq-1920 mq-default" data-layout-name="Presentation V2" style="width:1920px;height:1080px;">
+      <div id="item138188" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item133822" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item133823" class="pageItem singleline" alt="CONTACT   AGENT NAME  ">
+        <p class="autoParaStyle97">CONTACT &lt;&lt;AGENT NAME&gt;&gt;</p>
+      </div>
+      <div id="item133848" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item133849" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item138149" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item133850" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item133851" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item133852" class="pageItem" alt="SUBJECT PROPERTY LEASE SUMMARY">
+        <p class="autoParaStyle98">SUBJECT PROPERTY</p>
+        <p class="autoParaStyle19">LEASE SUMMARY</p>
+      </div>
+      <div id="item133877" class="pageItem" alt="Lease Type Type of Ownership Original Lease Term Commencement Date Lease Expiration Term Remaining Increases Options    ">
+        <p class="autoParaStyle100">Lease Type</p>
+        <p class="autoParaStyle100">Type of Ownership</p>
+        <p class="autoParaStyle100">Original Lease Term</p>
+        <p class="autoParaStyle100">Commencement Date</p>
+        <p class="autoParaStyle100">Lease Expiration</p>
+        <p class="autoParaStyle100">Term Remaining</p>
+        <p class="autoParaStyle100">Increases</p>
+        <p class="autoParaStyle100">Options</p>
+        <p class="autoParaStyle99">*Optional Note</p>
+      </div>
+      <div id="item133902" class="pageItem" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum">
+        <p class="autoParaStyle108">Lorem Ipsum</p>
+        <p class="autoParaStyle107">Lorem Ipsum</p>
+        <p class="autoParaStyle106">Lorem Ipsum</p>
+        <p class="autoParaStyle105">Lorem Ipsum</p>
+        <p class="autoParaStyle104">Lorem Ipsum</p>
+        <p class="autoParaStyle103">Lorem Ipsum</p>
+        <p class="autoParaStyle102">Lorem Ipsum</p>
+        <p class="autoParaStyle101">Lorem Ipsum</p>
+      </div>
+      <div id="item133928" class="pageItem" alt="Real Estate Taxes Insurance Roof & Structure Lease Guarantor Company Name Ownership Years in Business Number of Locat   ">
+        <p class="autoParaStyle100">Real Estate Taxes</p>
+        <p class="autoParaStyle100">Insurance</p>
+        <p class="autoParaStyle100">Roof &amp; Structure</p>
+        <p class="autoParaStyle100">Lease Guarantor</p>
+        <p class="autoParaStyle100">Company Name</p>
+        <p class="autoParaStyle100">Ownership</p>
+        <p class="autoParaStyle100">Years in Business</p>
+        <p class="autoParaStyle100">Number of Locations</p>
+        <p class="autoParaStyle99">*Optional Note</p>
+      </div>
+      <div id="item133953" class="pageItem" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum">
+        <p class="autoParaStyle108">Lorem Ipsum</p>
+        <p class="autoParaStyle107">Lorem Ipsum</p>
+        <p class="autoParaStyle106">Lorem Ipsum</p>
+        <p class="autoParaStyle105">Lorem Ipsum</p>
+        <p class="autoParaStyle104">Lorem Ipsum</p>
+        <p class="autoParaStyle103">Lorem Ipsum</p>
+        <p class="autoParaStyle102">Lorem Ipsum</p>
+        <p class="autoParaStyle101">Lorem Ipsum</p>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:115px !important;top:228px !important;" id="item133979" data-src="assets/images/item_133979.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:115px !important;top:259px !important;" id="item133980" data-src="assets/images/item_133980.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:115px !important;top:291px !important;" id="item133981" data-src="assets/images/item_133981.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:115px !important;top:323px !important;" id="item133982" data-src="assets/images/item_133982.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:115px !important;top:355px !important;" id="item133983" data-src="assets/images/item_133983.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:115px !important;top:386px !important;" id="item133984" data-src="assets/images/item_133984.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:115px !important;top:418px !important;" id="item133985" data-src="assets/images/item_133985.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:115px !important;top:450px !important;" id="item133986" data-src="assets/images/item_133986.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:588px !important;top:228px !important;" id="item138269" data-src="assets/images/item_138269.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:588px !important;top:259px !important;" id="item138271" data-src="assets/images/item_138271.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:588px !important;top:291px !important;" id="item138272" data-src="assets/images/item_138272.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:588px !important;top:323px !important;" id="item138273" data-src="assets/images/item_138273.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:588px !important;top:355px !important;" id="item138274" data-src="assets/images/item_138274.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:588px !important;top:386px !important;" id="item138275" data-src="assets/images/item_138275.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:588px !important;top:418px !important;" id="item138276" data-src="assets/images/item_138276.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:588px !important;top:450px !important;" id="item138277" data-src="assets/images/item_138277.png"/>
+      <div id="item133996" class="pageItem" alt="Lorem ipsum Lorem ipsum dolor sit unde enim amet, consectetur adipiscing elit, sed omnis qui do eiusmod tempor incidi   ">
+        <p class="autoParaStyle66">Lorem ipsum</p>
+        <p class="autoParaStyle65"><span class="autoCharStyle6">Lorem ipsum dolor sit unde enim amet, consectetur </span>adipiscing elit, sed omnis qui do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.<br /></p>
+        <p class="autoParaStyle66"><br /></p>
+        <p class="autoParaStyle66">Lorem ipsum</p>
+        <p class="autoParaStyle65"><span class="autoCharStyle6">Lorem ipsum dolor sit unde enim amet, consectetur </span>adipiscing elit, sed omnis qui do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.<br /></p>
+        <p class="autoParaStyle65"><br /></p>
+        <p class="autoParaStyle66">Lorem ipsum</p>
+        <p class="autoParaStyle65"><span class="autoCharStyle6">Lorem ipsum dolor sit unde enim amet, consectetur </span>adipiscing elit, sed omnis qui do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+      </div>
+      <div id="item159352" class="pageItem singleline" alt="04">
+        <p class="autoParaStyle17">04</p>
+      </div>
+    </div>
+    <div class="page-scale-wrap mq-1125" data-layout-name="iPhone X V" style="width:1125px;height:2436px;">
+      <div id="item157735" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item153977" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item153978" class="pageItem singleline" alt="CONTACT   AGENT NAME  ">
+        <p class="autoParaStyle109">CONTACT &lt;&lt;AGENT NAME&gt;&gt;</p>
+      </div>
+      <div id="item154003" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item154004" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item157736" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item154005" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item154006" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item154007" class="pageItem" alt="SUBJECT PROPERTY LEASE SUMMARY">
+        <p class="autoParaStyle110">SUBJECT PROPERTY</p>
+        <p class="autoParaStyle29">LEASE SUMMARY</p>
+      </div>
+      <div id="item154032" class="pageItem" alt="Lease Type Type of Ownership Original Lease Term Commencement Date Lease Expiration Term Remaining Increases Options    ">
+        <p class="autoParaStyle112">Lease Type</p>
+        <p class="autoParaStyle112">Type of Ownership</p>
+        <p class="autoParaStyle112">Original Lease Term</p>
+        <p class="autoParaStyle112">Commencement Date</p>
+        <p class="autoParaStyle112">Lease Expiration</p>
+        <p class="autoParaStyle112">Term Remaining</p>
+        <p class="autoParaStyle112">Increases</p>
+        <p class="autoParaStyle112">Options</p>
+        <p class="autoParaStyle111">*Optional Note</p>
+      </div>
+      <div id="item154057" class="pageItem" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum">
+        <p class="autoParaStyle120">Lorem Ipsum</p>
+        <p class="autoParaStyle119">Lorem Ipsum</p>
+        <p class="autoParaStyle118">Lorem Ipsum</p>
+        <p class="autoParaStyle117">Lorem Ipsum</p>
+        <p class="autoParaStyle116">Lorem Ipsum</p>
+        <p class="autoParaStyle115">Lorem Ipsum</p>
+        <p class="autoParaStyle114">Lorem Ipsum</p>
+        <p class="autoParaStyle113">Lorem Ipsum</p>
+      </div>
+      <div id="item154082" class="pageItem" alt="Real Estate Taxes Insurance Roof & Structure Lease Guarantor Company Name Ownership Years in Business Number of Locat   ">
+        <p class="autoParaStyle112">Real Estate Taxes</p>
+        <p class="autoParaStyle112">Insurance</p>
+        <p class="autoParaStyle112">Roof &amp; Structure</p>
+        <p class="autoParaStyle112">Lease Guarantor</p>
+        <p class="autoParaStyle112">Company Name</p>
+        <p class="autoParaStyle112">Ownership</p>
+        <p class="autoParaStyle112">Years in Business</p>
+        <p class="autoParaStyle112">Number of Locations</p>
+        <p class="autoParaStyle111">*Optional Note</p>
+      </div>
+      <div id="item154107" class="pageItem" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum">
+        <p class="autoParaStyle120">Lorem Ipsum</p>
+        <p class="autoParaStyle119">Lorem Ipsum</p>
+        <p class="autoParaStyle118">Lorem Ipsum</p>
+        <p class="autoParaStyle117">Lorem Ipsum</p>
+        <p class="autoParaStyle116">Lorem Ipsum</p>
+        <p class="autoParaStyle115">Lorem Ipsum</p>
+        <p class="autoParaStyle114">Lorem Ipsum</p>
+        <p class="autoParaStyle113">Lorem Ipsum</p>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:67px !important;top:1035px !important;" id="item154132" data-src="assets/images/item_154132.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:67px !important;top:1053px !important;" id="item154133" data-src="assets/images/item_154133.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:67px !important;top:1072px !important;" id="item154134" data-src="assets/images/item_154134.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:67px !important;top:1091px !important;" id="item154135" data-src="assets/images/item_154135.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:67px !important;top:1109px !important;" id="item154136" data-src="assets/images/item_154136.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:67px !important;top:1128px !important;" id="item154137" data-src="assets/images/item_154137.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:67px !important;top:1147px !important;" id="item154138" data-src="assets/images/item_154138.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:67px !important;top:1165px !important;" id="item154139" data-src="assets/images/item_154139.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:345px !important;top:1035px !important;" id="item154140" data-src="assets/images/item_154140.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:345px !important;top:1053px !important;" id="item154141" data-src="assets/images/item_154141.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:345px !important;top:1072px !important;" id="item154143" data-src="assets/images/item_154143.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:345px !important;top:1091px !important;" id="item154144" data-src="assets/images/item_154144.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:345px !important;top:1109px !important;" id="item154145" data-src="assets/images/item_154145.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:345px !important;top:1128px !important;" id="item154146" data-src="assets/images/item_154146.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:345px !important;top:1147px !important;" id="item154147" data-src="assets/images/item_154147.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="left:345px !important;top:1165px !important;" id="item154148" data-src="assets/images/item_154148.png"/>
+      <div id="item154149" class="pageItem" alt="Lorem ipsum Lorem ipsum dolor sit unde enim amet, consectetur adipiscing elit, sed omnis qui do eiusmod tempor incidi   ">
+        <p class="autoParaStyle82">Lorem ipsum</p>
+        <p class="autoParaStyle81"><span class="autoCharStyle7">Lorem ipsum dolor sit unde enim amet, consectetur </span>adipiscing elit, sed omnis qui do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.<br /></p>
+        <p class="autoParaStyle82"><br /></p>
+        <p class="autoParaStyle82">Lorem ipsum</p>
+        <p class="autoParaStyle81"><span class="autoCharStyle7">Lorem ipsum dolor sit unde enim amet, consectetur </span>adipiscing elit, sed omnis qui do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.<br /></p>
+        <p class="autoParaStyle81"><br /></p>
+        <p class="autoParaStyle82">Lorem ipsum</p>
+        <p class="autoParaStyle81"><span class="autoCharStyle7">Lorem ipsum dolor sit unde enim amet, consectetur </span>adipiscing elit, sed omnis qui do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+      </div>
+      <div id="item158949" class="pageItem singleline" alt="04">
+        <p class="autoParaStyle27">04</p>
+      </div>
+    </div>
+  </li>
+  <li class="page">
+    <div class="page-scale-wrap mq-792" style="width:792px;height:612px;"><div id="demoNote" class="pageItem">This is a limited preview of <a href="http://in5.ajar.pro" target="_blank">in5</a>. To unlock in5 completely, please <a href="https://ajarproductions.com/pages/products/in5/purchase.php?src=dialog&level=-1" target="_blank">purchase a license</a>.</div></div>
+    <div class="page-scale-wrap mq-1920 mq-default" style="width:1920px;height:1080px;"><div id="demoNote" class="pageItem">This is a limited preview of <a href="http://in5.ajar.pro" target="_blank">in5</a>. To unlock in5 completely, please <a href="https://ajarproductions.com/pages/products/in5/purchase.php?src=dialog&level=-1" target="_blank">purchase a license</a>.</div></div>
+    <div class="page-scale-wrap mq-1125" style="width:1125px;height:2436px;"><div id="demoNote" class="pageItem">This is a limited preview of <a href="http://in5.ajar.pro" target="_blank">in5</a>. To unlock in5 completely, please <a href="https://ajarproductions.com/pages/products/in5/purchase.php?src=dialog&level=-1" target="_blank">purchase a license</a>.</div></div>
+  </li>
+</ul>
+<div id="prefooter" style="float:left;height:1px;">&nbsp;</div>
+</div>
+<div id="in5footer">Built with <a href="http://ajarproductions.com/pages/products/in5/?ref=footer" target="_blank" >In5</a>.</div>
+</div>
+<nav id="page-nav">
+<button id="nextBtn" name="nextBtn">&nbsp;</button>
+<button id="backBtn" name="backBtn">&nbsp;</button>
+</nav>
+</body>
+</html>
