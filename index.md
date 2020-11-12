@@ -6,7 +6,6 @@
 <meta name="apple-mobile-web-app-title" content="2021 STNL Marketing Package">
 <meta name="generator" content="In5 v3.6.11">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<meta name="viewport" content="initial-scale=1.0,minimum-scale=.2,maximum-scale=1.0,user-scalable=no">
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery || document.write('<script src="assets/js/jquery.min.js"><\/script>')</script>
 <script type="text/javascript" src="assets/js/vmouse.min.js"></script>
