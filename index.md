@@ -52,7 +52,7 @@
         <img src="assets/images/blank.gif" class="pageItem hd" alt="EPS" id="item169493" data-src="assets/images/item_169493.png"/>
       </div>
     </div>
-    <div class="page-scale-wrap mq-375" data-layout-name="Mobile" style="width:375px;height:650px;">
+    <div class="page-scale-wrap mq-375" data-layout-name="Mobile" style="width:375px;height:667px;">
       <div id="item194824" class="pageItem" alt="Rectangle">&nbsp;</div>
       <div id="item203244" class="pageItem" alt="Rectangle">&nbsp;</div>
       <div id="item203246" class="pageItem" alt="TENANT NAME">
@@ -537,7 +537,7 @@
   <li class="page">
     <div class="page-scale-wrap mq-792" style="width:792px;height:612px;"><div id="demoNote" class="pageItem">This is a limited preview of <a href="http://in5.ajar.pro" target="_blank">in5</a>. To unlock in5 completely, please <a href="https://ajarproductions.com/pages/products/in5/purchase.php?src=dialog&level=-1" target="_blank">purchase a license</a>.</div></div>
     <div class="page-scale-wrap mq-1920 mq-default" style="width:1920px;height:1080px;"><div id="demoNote" class="pageItem">This is a limited preview of <a href="http://in5.ajar.pro" target="_blank">in5</a>. To unlock in5 completely, please <a href="https://ajarproductions.com/pages/products/in5/purchase.php?src=dialog&level=-1" target="_blank">purchase a license</a>.</div></div>
-    <div class="page-scale-wrap mq-375" style="width:375px;height:650px;"><div id="demoNote" class="pageItem">This is a limited preview of <a href="http://in5.ajar.pro" target="_blank">in5</a>. To unlock in5 completely, please <a href="https://ajarproductions.com/pages/products/in5/purchase.php?src=dialog&level=-1" target="_blank">purchase a license</a>.</div></div>
+    <div class="page-scale-wrap mq-375" style="width:375px;height:667px;"><div id="demoNote" class="pageItem">This is a limited preview of <a href="http://in5.ajar.pro" target="_blank">in5</a>. To unlock in5 completely, please <a href="https://ajarproductions.com/pages/products/in5/purchase.php?src=dialog&level=-1" target="_blank">purchase a license</a>.</div></div>
   </li>
 </ul>
 <div id="prefooter" style="float:left;height:1px;">&nbsp;</div>
