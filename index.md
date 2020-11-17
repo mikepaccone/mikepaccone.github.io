@@ -38,35 +38,33 @@
         <img src="assets/images/blank.gif" class="pageItem hd" alt="EPS" id="item169487" data-src="assets/images/item_169487.png"/>
       </div>
     </div>
-    <div class="page-scale-wrap mq-1920 mq-default" data-layout-name="Presentation V2" style="width:1920px;height:1080px;">
-      <div id="item132836" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item132837" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item132838" class="pageItem" alt="TENANT NAME">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="TENANT NAME" class="svg-img pageItem" data-src="assets/images/item_132838.svg"/>
+    <div class="page-scale-wrap mq-1920 mq-default" data-layout-name="Desktop" style="width:1920px;height:1080px;">
+      <div id="item234903" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item234904" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item234905" class="pageItem" alt="TENANT NAME">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="TENANT NAME" class="svg-img pageItem" data-src="assets/images/item_234905.svg"/>
       </div>
-      <div id="item132863" class="pageItem" alt="12345 STREET ADDRESS, CITY, STATE ZIP">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="12345 STREET ADDRESS, CITY, STATE ZIP" class="svg-img pageItem" data-src="assets/images/item_132863.svg"/>
+      <div id="item234931" class="pageItem" alt="12345 STREET ADDRESS, CITY, STATE ZIP">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="12345 STREET ADDRESS, CITY, STATE ZIP" class="svg-img pageItem" data-src="assets/images/item_234931.svg"/>
       </div>
-      <div id="item132888" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item132889" class="pageItem fauxgroup" alt="Rectangle">
-        <img src="assets/images/blank.gif" class="pageItem hd" alt="EPS" id="item169493" data-src="assets/images/item_169493.png"/>
+      <div id="item234956" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item234957" class="pageItem fauxgroup" alt="Rectangle">
+        <img src="assets/images/blank.gif" class="pageItem hd" alt="EPS" id="item234958" data-src="assets/images/item_234958.png"/>
       </div>
     </div>
-    <div class="page-scale-wrap mq-375" data-layout-name="Mobile" style="width:375px;height:667px;">
-      <div id="item204388" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item209380" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item222698" class="pageItem" alt="TENANT NAME">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="TENANT NAME" class="svg-img pageItem" data-src="assets/images/item_222698.svg"/>
+    <div class="page-scale-wrap mq-375" data-layout-name="Mobile" style="width:375px;height:482px;">
+      <div id="item242754" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item242755" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item242756" class="pageItem" alt="TENANT NAME">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="TENANT NAME" class="svg-img pageItem" data-src="assets/images/item_242756.svg"/>
       </div>
-      <div id="item222723" class="pageItem" alt="12345 STREET ADDRESS, ">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="12345 STREET ADDRESS, " class="svg-img pageItem" data-src="assets/images/item_222723.svg"/>
+      <div id="item242781" class="pageItem" alt="12345 STREET ADDRESS, CITY, STATE ZIP">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="12345 STREET ADDRESS, CITY, STATE ZIP" class="svg-img pageItem" data-src="assets/images/item_242781.svg"/>
       </div>
-      <div id="item204441" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item204442" class="pageItem fauxgroup" alt="Rectangle">
-        <img src="assets/images/blank.gif" class="pageItem hd" alt="EPS" id="item204443" data-src="assets/images/item_204443.png"/>
-      </div>
-      <div id="item231718" class="pageItem" alt="SUBJECT PROPERTY INVESTMENT SUMMARY">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="SUBJECT PROPERTY INVESTMENT SUMMARY" class="svg-img pageItem" data-src="assets/images/item_231718.svg"/>
+      <div id="item242815" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Rectangle" style="left:81px !important;top:387px !important;" id="item261993" data-src="assets/images/item_261993.png"/>
+      <div id="item249949" class="pageItem fauxgroup" alt="Rectangle">
+        <img src="assets/images/blank.gif" class="pageItem hd" alt="EPS" id="item249950" data-src="assets/images/item_249950.png"/>
       </div>
     </div>
   </li>
@@ -104,8 +102,8 @@
         <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:172px !important;top:90px !important;" id="item24235" data-src="assets/images/item_24235.png"/>
       </div>
       <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:172px !important;left:66px !important;top:269px !important;" id="item24577" data-src="assets/images/item_24577.png"/>
-      <div id="item233436" class="pageItem" alt="02">
-        <img src="assets/images/blank.gif" style="top:-4px" alt="02" class="svg-img pageItem" data-src="assets/images/item_233436.svg"/>
+      <div id="item262783" class="pageItem" alt="02">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="02" class="svg-img pageItem" data-src="assets/images/item_262783.svg"/>
       </div>
       <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:66px !important;top:437px !important;" id="item127240" data-src="assets/images/item_127240.png"/>
       <div id="item127241" class="pageItem" alt="Agent 1">
@@ -120,130 +118,183 @@
         <img src="assets/images/blank.gif" style="top:-6px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_18734.svg"/>
       </div>
     </div>
-    <div class="page-scale-wrap mq-1920 mq-default" data-layout-name="Presentation V2" style="width:1920px;height:1080px;">
-      <div id="item138188" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item132922" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item132923" class="pageItem" alt="12345 STREET ADDRESS, CITY, STATE ZIP">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="12345 STREET ADDRESS, CITY, STATE ZIP" class="svg-img pageItem" data-src="assets/images/item_132923.svg"/>
+    <div class="page-scale-wrap mq-1920 mq-default" data-layout-name="Desktop" style="width:1920px;height:1080px;">
+      <div id="item241658" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item234990" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item234991" class="pageItem" alt="12345 STREET ADDRESS, CITY, STATE ZIP">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="12345 STREET ADDRESS, CITY, STATE ZIP" class="svg-img pageItem" data-src="assets/images/item_234991.svg"/>
       </div>
-      <div id="item132948" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item138149" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item132949" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item132950" class="pageItem" alt="SUBJECT PROPERTY TABLE OF CONTENTS">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="SUBJECT PROPERTY TABLE OF CONTENTS" class="svg-img pageItem" data-src="assets/images/item_132950.svg"/>
+      <div id="item235016" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item240533" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item235017" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item235018" class="pageItem" alt="SUBJECT PROPERTY TABLE OF CONTENTS">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="SUBJECT PROPERTY TABLE OF CONTENTS" class="svg-img pageItem" data-src="assets/images/item_235018.svg"/>
       </div>
-      <div id="item132975" class="pageItem" alt="PAGE">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="PAGE" class="svg-img pageItem" data-src="assets/images/item_132975.svg"/>
+      <div id="item235043" class="pageItem" alt="PAGE">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="PAGE" class="svg-img pageItem" data-src="assets/images/item_235043.svg"/>
       </div>
-      <div id="item133000" class="pageItem" alt="CONTACT INFORMATION">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="CONTACT INFORMATION" class="svg-img pageItem" data-src="assets/images/item_133000.svg"/>
+      <div id="item235069" class="pageItem" alt="CONTACT INFORMATION">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="CONTACT INFORMATION" class="svg-img pageItem" data-src="assets/images/item_235069.svg"/>
       </div>
-      <div id="item133025" class="pageItem" alt="Investment Summary Lease Summary Retail Aerial Site Plan Rent Schedule About the Brand Location Overview">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Investment Summary Lease Summary Retail Aerial Site Plan Rent Schedule About the Brand Location Overview" class="svg-img pageItem" data-src="assets/images/item_133025.svg"/>
+      <div id="item235094" class="pageItem" alt="Investment Summary Lease Summary Retail Aerial Site Plan Rent Schedule About the Brand Location Overview">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Investment Summary Lease Summary Retail Aerial Site Plan Rent Schedule About the Brand Location Overview" class="svg-img pageItem" data-src="assets/images/item_235094.svg"/>
       </div>
-      <div id="item133050" class="pageItem" alt="03 04 05 07 08 09 10">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="03 04 05 07 08 09 10" class="svg-img pageItem" data-src="assets/images/item_133050.svg"/>
+      <div id="item235119" class="pageItem" alt="03 04 05 07 08 09 10">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="03 04 05 07 08 09 10" class="svg-img pageItem" data-src="assets/images/item_235119.svg"/>
       </div>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:304px !important;left:115px !important;top:255px !important;" id="item133076" data-src="assets/images/item_133076.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:304px !important;left:115px !important;top:286px !important;" id="item133077" data-src="assets/images/item_133077.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:304px !important;left:115px !important;top:318px !important;" id="item133078" data-src="assets/images/item_133078.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:304px !important;left:115px !important;top:350px !important;" id="item133080" data-src="assets/images/item_133080.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:304px !important;left:115px !important;top:382px !important;" id="item133081" data-src="assets/images/item_133081.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:304px !important;left:115px !important;top:414px !important;" id="item133082" data-src="assets/images/item_133082.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:304px !important;left:115px !important;top:448px !important;" id="item133083" data-src="assets/images/item_133083.png"/>
-      <div id="item233056" class="pageItem" alt="02">
-        <img src="assets/images/blank.gif" style="top:-7px" alt="02" class="svg-img pageItem" data-src="assets/images/item_233056.svg"/>
+      <div class="pageItem group" alt="Group" style="left:115px !important;top:256px !important;" id="item235144">
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:304px !important;" id="item235145" data-src="assets/images/item_235145.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:304px !important;top:32px !important;" id="item235146" data-src="assets/images/item_235146.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:304px !important;top:64px !important;" id="item235147" data-src="assets/images/item_235147.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:304px !important;top:95px !important;" id="item235148" data-src="assets/images/item_235148.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:304px !important;top:127px !important;" id="item235149" data-src="assets/images/item_235149.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:304px !important;top:159px !important;" id="item235151" data-src="assets/images/item_235151.png"/>
       </div>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:115px !important;top:744px !important;" id="item133085" data-src="assets/images/item_133085.png"/>
-      <div id="item133086" class="pageItem" alt="Agent 1">
-        <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_133086.svg"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:304px !important;left:115px !important;top:449px !important;" id="item235152" data-src="assets/images/item_235152.png"/>
+      <div id="item262406" class="pageItem" alt="02">
+        <img src="assets/images/blank.gif" style="top:-7px" alt="02" class="svg-img pageItem" data-src="assets/images/item_262406.svg"/>
       </div>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:115px !important;top:635px !important;" id="item133112" data-src="assets/images/item_133112.png"/>
-      <div id="item133113" class="pageItem" alt="Agent 1">
-        <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_133113.svg"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:116px !important;top:745px !important;" id="item235153" data-src="assets/images/item_235153.png"/>
+      <div id="item235154" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_235154.svg"/>
       </div>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:115px !important;top:526px !important;" id="item133139" data-src="assets/images/item_133139.png"/>
-      <div id="item133140" class="pageItem" alt="Agent 1">
-        <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_133140.svg"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:116px !important;top:636px !important;" id="item235179" data-src="assets/images/item_235179.png"/>
+      <div id="item235180" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_235180.svg"/>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:116px !important;top:527px !important;" id="item235205" data-src="assets/images/item_235205.png"/>
+      <div id="item235206" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_235206.svg"/>
       </div>
     </div>
-    <div class="page-scale-wrap mq-375" data-layout-name="Mobile" style="width:375px;height:924px;">
-      <div id="item223888" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item232092" class="pageItem" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_232092.svg"/>
+    <div class="page-scale-wrap mq-375" data-layout-name="Mobile" style="width:375px;height:1002px;">
+      <div id="item250114" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item242851" class="pageItem" alt="12345 STREET ADDRESS, CITY, STATE ZIP">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="12345 STREET ADDRESS, CITY, STATE ZIP" class="svg-img pageItem" data-src="assets/images/item_242851.svg"/>
       </div>
-      <div id="item232117" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item231964" class="pageItem" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_231964.svg"/>
+      <div id="item243131" class="pageItem" alt="CONTACT   AGENT NAME  ">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="CONTACT   AGENT NAME  " class="svg-img pageItem" data-src="assets/images/item_243131.svg"/>
       </div>
-      <div id="item232059" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item232061" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item232062" class="pageItem" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_232062.svg"/>
+      <div id="item242876" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item249966" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item249964" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Rectangle" style="left:50px !important;top:709px !important;" id="item250126" data-src="assets/images/item_250126.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Rectangle" style="left:72px !important;top:859px !important;" id="item250142" data-src="assets/images/item_250142.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Rectangle" style="left:229px !important;top:715px !important;" id="item250138" data-src="assets/images/item_250138.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Rectangle" style="left:229px !important;top:859px !important;" id="item250143" data-src="assets/images/item_250143.png"/>
+      <div id="item242889" class="pageItem" alt="SUBJECT PROPERTY TABLE OF CONTENTS">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="SUBJECT PROPERTY TABLE OF CONTENTS" class="svg-img pageItem" data-src="assets/images/item_242889.svg"/>
       </div>
-      <div id="item232087" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item232088" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item222833" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item223236" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:477px !important;" id="item222885" data-src="assets/images/item_222885.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:509px !important;" id="item222887" data-src="assets/images/item_222887.png"/>
-      <div id="item222888" class="pageItem" alt="Agent 1">
-        <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_222888.svg"/>
+      <div id="item242914" class="pageItem" alt="PAGE">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="PAGE" class="svg-img pageItem" data-src="assets/images/item_242914.svg"/>
       </div>
-      <div id="item222913" class="pageItem" alt="Agent 1">
-        <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_222913.svg"/>
+      <div id="item242939" class="pageItem" alt="CONTACT INFORMATION">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="CONTACT INFORMATION" class="svg-img pageItem" data-src="assets/images/item_242939.svg"/>
       </div>
-      <div id="item222938" class="pageItem" alt="Agent 1">
-        <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_222938.svg"/>
+      <div id="item242964" class="pageItem" alt="Investment Summary Lease Summary Retail Aerial Site Plan Rent Schedule About the Brand Location Overview">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Investment Summary Lease Summary Retail Aerial Site Plan Rent Schedule About the Brand Location Overview" class="svg-img pageItem" data-src="assets/images/item_242964.svg"/>
       </div>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:32px !important;top:243px !important;" id="item222963" data-src="assets/images/item_222963.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:32px !important;top:234px !important;mix-blend-mode:overlay;" id="item222966" data-src="assets/images/item_222966.png"/>
-      <div id="item222991" class="pageItem" alt=" ">
-        <img src="assets/images/blank.gif" style="top:-13px" alt=" " class="svg-img pageItem" data-src="assets/images/item_222991.svg"/>
+      <div id="item242989" class="pageItem" alt="03 04 05 07 08 09 10">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="03 04 05 07 08 09 10" class="svg-img pageItem" data-src="assets/images/item_242989.svg"/>
       </div>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:32px !important;top:402px !important;" id="item223016" data-src="assets/images/item_223016.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:32px !important;top:393px !important;mix-blend-mode:overlay;" id="item223018" data-src="assets/images/item_223018.png"/>
-      <div id="item223043" class="pageItem" alt=" ">
-        <img src="assets/images/blank.gif" style="top:-13px" alt=" " class="svg-img pageItem" data-src="assets/images/item_223043.svg"/>
+      <div class="pageItem group" alt="Group" style="left:-657px !important;top:217px !important;" id="item243014">
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:304px !important;" id="item243015" data-src="assets/images/item_243015.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:304px !important;top:32px !important;" id="item243016" data-src="assets/images/item_243016.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:304px !important;top:64px !important;" id="item243017" data-src="assets/images/item_243017.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:304px !important;top:95px !important;" id="item243018" data-src="assets/images/item_243018.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:304px !important;top:127px !important;" id="item243019" data-src="assets/images/item_243019.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:304px !important;top:159px !important;" id="item243020" data-src="assets/images/item_243020.png"/>
       </div>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:32px !important;top:322px !important;" id="item223068" data-src="assets/images/item_223068.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:32px !important;top:313px !important;mix-blend-mode:overlay;" id="item223070" data-src="assets/images/item_223070.png"/>
-      <div id="item223095" class="pageItem" alt="%">
-        <img src="assets/images/blank.gif" style="top:-13px" alt="%" class="svg-img pageItem" data-src="assets/images/item_223095.svg"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:304px !important;left:-657px !important;top:410px !important;" id="item243021" data-src="assets/images/item_243021.png"/>
+      <div id="item243177" class="pageItem" alt="SUBJECT PROPERTY INVESTMENT SUMMARY">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="SUBJECT PROPERTY INVESTMENT SUMMARY" class="svg-img pageItem" data-src="assets/images/item_243177.svg"/>
       </div>
-      <div id="item223439" class="pageItem" alt="Price   SF">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Price   SF" class="svg-img pageItem" data-src="assets/images/item_223439.svg"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:32px !important;top:329px !important;" id="item243666" data-src="assets/images/item_243666.png"/>
+      <div id="item243668" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_243668.svg"/>
       </div>
-      <div id="item223468" class="pageItem" alt="Rent   SF">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Rent   SF" class="svg-img pageItem" data-src="assets/images/item_223468.svg"/>
+      <div id="item243718" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_243718.svg"/>
       </div>
-      <div id="item224034" class="pageItem" alt="Tenant ">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Tenant " class="svg-img pageItem" data-src="assets/images/item_224034.svg"/>
+      <div id="item243768" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_243768.svg"/>
       </div>
-      <div id="item224084" class="pageItem" alt="Lot Size ">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Lot Size " class="svg-img pageItem" data-src="assets/images/item_224084.svg"/>
+      <div id="item243819" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_243819.svg"/>
       </div>
-      <div id="item224059" class="pageItem" alt="GLA ">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="GLA " class="svg-img pageItem" data-src="assets/images/item_224059.svg"/>
+      <div id="item243869" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_243869.svg"/>
       </div>
-      <div id="item224109" class="pageItem" alt="Year Built ">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Year Built " class="svg-img pageItem" data-src="assets/images/item_224109.svg"/>
+      <div id="item243920" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_243920.svg"/>
       </div>
-      <div id="item224694" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item224697" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item224696" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item224698" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item231510" class="pageItem" alt="Lorem Ipsum ">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum " class="svg-img pageItem" data-src="assets/images/item_231510.svg"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:32px !important;top:424px !important;" id="item243970" data-src="assets/images/item_243970.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:32px !important;top:519px !important;" id="item243972" data-src="assets/images/item_243972.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:32px !important;top:320px !important;mix-blend-mode:overlay;" id="item243974" data-src="assets/images/item_243974.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:32px !important;top:415px !important;mix-blend-mode:overlay;" id="item244024" data-src="assets/images/item_244024.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:32px !important;top:510px !important;mix-blend-mode:overlay;" id="item244074" data-src="assets/images/item_244074.png"/>
+      <div id="item244124" class="pageItem" alt=" ">
+        <img src="assets/images/blank.gif" style="top:-13px" alt=" " class="svg-img pageItem" data-src="assets/images/item_244124.svg"/>
       </div>
-      <div id="item231916" class="pageItem" alt="SUBJECT PROPERTY LEASE SUMMARY">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="SUBJECT PROPERTY LEASE SUMMARY" class="svg-img pageItem" data-src="assets/images/item_231916.svg"/>
+      <div id="item244149" class="pageItem" alt=" ">
+        <img src="assets/images/blank.gif" style="top:-13px" alt=" " class="svg-img pageItem" data-src="assets/images/item_244149.svg"/>
       </div>
-      <div id="item232001" class="pageItem" alt="Agent 1">
-        <img src="assets/images/blank.gif" style="top:-11px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_232001.svg"/>
+      <div id="item244174" class="pageItem" alt="%">
+        <img src="assets/images/blank.gif" style="top:-13px" alt="%" class="svg-img pageItem" data-src="assets/images/item_244174.svg"/>
       </div>
-      <div id="item232029" class="pageItem" alt="Agent 1">
-        <img src="assets/images/blank.gif" style="top:-11px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_232029.svg"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:408px !important;" id="item250105" data-src="assets/images/item_250105.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:505px !important;" id="item250106" data-src="assets/images/item_250106.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:597px !important;" id="item250107" data-src="assets/images/item_250107.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:629px !important;" id="item250108" data-src="assets/images/item_250108.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:661px !important;" id="item250109" data-src="assets/images/item_250109.png"/>
+      <div id="item243693" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_243693.svg"/>
+      </div>
+      <div id="item243794" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_243794.svg"/>
+      </div>
+      <div id="item243844" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_243844.svg"/>
+      </div>
+      <div id="item243945" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_243945.svg"/>
+      </div>
+      <div id="item243203" class="pageItem" alt="Tenant">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Tenant" class="svg-img pageItem" data-src="assets/images/item_243203.svg"/>
+      </div>
+      <div id="item243330" class="pageItem" alt="GLA">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="GLA" class="svg-img pageItem" data-src="assets/images/item_243330.svg"/>
+      </div>
+      <div id="item243355" class="pageItem" alt="Lot Size">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lot Size" class="svg-img pageItem" data-src="assets/images/item_243355.svg"/>
+      </div>
+      <div id="item243380" class="pageItem" alt="Year Built">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Year Built" class="svg-img pageItem" data-src="assets/images/item_243380.svg"/>
+      </div>
+      <div id="item243430" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_243430.svg"/>
+      </div>
+      <div id="item243555" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_243555.svg"/>
+      </div>
+      <div id="item243580" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_243580.svg"/>
+      </div>
+      <div id="item243606" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_243606.svg"/>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Rectangle" style="left:586px !important;top:301px !important;" id="item261932" data-src="assets/images/item_261932.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:-657px !important;top:706px !important;" id="item243022" data-src="assets/images/item_243022.png"/>
+      <div id="item243024" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_243024.svg"/>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:-657px !important;top:597px !important;" id="item243049" data-src="assets/images/item_243049.png"/>
+      <div id="item243050" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_243050.svg"/>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:-657px !important;top:488px !important;" id="item243075" data-src="assets/images/item_243075.png"/>
+      <div id="item243076" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_243076.svg"/>
       </div>
     </div>
   </li>
@@ -262,11 +313,56 @@
       <div id="item13606" class="pageItem" alt="SUBJECT PROPERTY INVESTMENT SUMMARY">
         <img src="assets/images/blank.gif" style="top:-4px" alt="SUBJECT PROPERTY INVESTMENT SUMMARY" class="svg-img pageItem" data-src="assets/images/item_13606.svg"/>
       </div>
-      <div id="item14219" class="pageItem" alt="Tenant Street Address City State Zip GLA Lot Size Year Built *Optional Note">
-        <img src="assets/images/blank.gif" style="top:-4px" alt="Tenant Street Address City State Zip GLA Lot Size Year Built *Optional Note" class="svg-img pageItem" data-src="assets/images/item_14219.svg"/>
+      <div id="item14219" class="pageItem" alt="Tenant">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Tenant" class="svg-img pageItem" data-src="assets/images/item_14219.svg"/>
       </div>
-      <div id="item14244" class="pageItem" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum">
-        <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_14244.svg"/>
+      <div id="item233435" class="pageItem" alt="Street Address">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Street Address" class="svg-img pageItem" data-src="assets/images/item_233435.svg"/>
+      </div>
+      <div id="item233460" class="pageItem" alt="City">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="City" class="svg-img pageItem" data-src="assets/images/item_233460.svg"/>
+      </div>
+      <div id="item233485" class="pageItem" alt="State">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="State" class="svg-img pageItem" data-src="assets/images/item_233485.svg"/>
+      </div>
+      <div id="item233510" class="pageItem" alt="Zip">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Zip" class="svg-img pageItem" data-src="assets/images/item_233510.svg"/>
+      </div>
+      <div id="item233535" class="pageItem" alt="GLA">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="GLA" class="svg-img pageItem" data-src="assets/images/item_233535.svg"/>
+      </div>
+      <div id="item233560" class="pageItem" alt="Lot Size">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Lot Size" class="svg-img pageItem" data-src="assets/images/item_233560.svg"/>
+      </div>
+      <div id="item233585" class="pageItem" alt="Year Built">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Year Built" class="svg-img pageItem" data-src="assets/images/item_233585.svg"/>
+      </div>
+      <div id="item233610" class="pageItem" alt="*Optional Note">
+        <img src="assets/images/blank.gif" style="top:-3px" alt="*Optional Note" class="svg-img pageItem" data-src="assets/images/item_233610.svg"/>
+      </div>
+      <div id="item14244" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_14244.svg"/>
+      </div>
+      <div id="item233198" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_233198.svg"/>
+      </div>
+      <div id="item233223" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_233223.svg"/>
+      </div>
+      <div id="item233248" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_233248.svg"/>
+      </div>
+      <div id="item233273" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_233273.svg"/>
+      </div>
+      <div id="item233298" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_233298.svg"/>
+      </div>
+      <div id="item233323" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_233323.svg"/>
+      </div>
+      <div id="item233348" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_233348.svg"/>
       </div>
       <div id="item14545" class="pageItem" alt="Lorem ipsum Lorem ipsum dolor sit unde enim amet, consectetur adipiscing elit, sed omnis qui do eiusmod tempor incidi   ">
         <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem ipsum Lorem ipsum dolor sit unde enim amet, consectetur adipiscing elit, sed omnis qui do eiusmod tempor incidi   " class="svg-img pageItem" data-src="assets/images/item_14545.svg"/>
@@ -286,31 +382,49 @@
       <div id="item131971" class="pageItem" alt="Agent 1">
         <img src="assets/images/blank.gif" style="top:-6px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_131971.svg"/>
       </div>
-      <div id="item132157" class="pageItem" alt="Agent 1">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_132157.svg"/>
+      <div id="item233829" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_233829.svg"/>
+      </div>
+      <div id="item233729" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_233729.svg"/>
+      </div>
+      <div id="item233854" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_233854.svg"/>
+      </div>
+      <div id="item233779" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_233779.svg"/>
+      </div>
+      <div id="item233879" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_233879.svg"/>
+      </div>
+      <div id="item233644" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_233644.svg"/>
+      </div>
+      <div id="item233904" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_233904.svg"/>
+      </div>
+      <div id="item233754" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_233754.svg"/>
+      </div>
+      <div id="item233929" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_233929.svg"/>
+      </div>
+      <div id="item233804" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_233804.svg"/>
+      </div>
+      <div id="item233954" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_233954.svg"/>
       </div>
       <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:285px !important;top:180px !important;" id="item132012" data-src="assets/images/item_132012.png"/>
       <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:402px !important;top:180px !important;" id="item132182" data-src="assets/images/item_132182.png"/>
-      <div id="item132013" class="pageItem" alt="Agent 1">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_132013.svg"/>
-      </div>
-      <div id="item132183" class="pageItem" alt="Agent 1">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_132183.svg"/>
-      </div>
       <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:285px !important;top:234px !important;" id="item132039" data-src="assets/images/item_132039.png"/>
       <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:402px !important;top:234px !important;" id="item132208" data-src="assets/images/item_132208.png"/>
-      <div id="item132040" class="pageItem" alt="Agent 1">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_132040.svg"/>
-      </div>
-      <div id="item132209" class="pageItem" alt="Agent 1">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_132209.svg"/>
-      </div>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:285px !important;top:121px !important;mix-blend-mode:overlay;" id="item132247" data-src="assets/images/item_132247.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:402px !important;top:121px !important;mix-blend-mode:overlay;" id="item132344" data-src="assets/images/item_132344.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:285px !important;top:175px !important;mix-blend-mode:overlay;" id="item132280" data-src="assets/images/item_132280.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:402px !important;top:175px !important;mix-blend-mode:overlay;" id="item132369" data-src="assets/images/item_132369.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:285px !important;top:229px !important;mix-blend-mode:overlay;" id="item132312" data-src="assets/images/item_132312.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:402px !important;top:229px !important;mix-blend-mode:overlay;" id="item132394" data-src="assets/images/item_132394.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Oval" style="left:285px !important;top:126px !important;mix-blend-mode:overlay;" id="item132247" data-src="assets/images/item_132247.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Oval" style="left:402px !important;top:126px !important;mix-blend-mode:overlay;" id="item132344" data-src="assets/images/item_132344.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Oval" style="left:285px !important;top:180px !important;mix-blend-mode:overlay;" id="item132280" data-src="assets/images/item_132280.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Oval" style="left:402px !important;top:180px !important;mix-blend-mode:overlay;" id="item132369" data-src="assets/images/item_132369.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Oval" style="left:285px !important;top:234px !important;mix-blend-mode:overlay;" id="item132312" data-src="assets/images/item_132312.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Oval" style="left:402px !important;top:234px !important;mix-blend-mode:overlay;" id="item132394" data-src="assets/images/item_132394.png"/>
       <div id="item132499" class="pageItem" alt=" ">
         <img src="assets/images/blank.gif" style="top:-7px" alt=" " class="svg-img pageItem" data-src="assets/images/item_132499.svg"/>
       </div>
@@ -329,160 +443,297 @@
       <div id="item132557" class="pageItem" alt=" ">
         <img src="assets/images/blank.gif" style="top:-7px" alt=" " class="svg-img pageItem" data-src="assets/images/item_132557.svg"/>
       </div>
-      <div id="item233411" class="pageItem" alt="03">
-        <img src="assets/images/blank.gif" style="top:-4px" alt="03" class="svg-img pageItem" data-src="assets/images/item_233411.svg"/>
+      <div id="item262758" class="pageItem" alt="03">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="03" class="svg-img pageItem" data-src="assets/images/item_262758.svg"/>
       </div>
     </div>
-    <div class="page-scale-wrap mq-1920 mq-default" data-layout-name="Presentation V2" style="width:1920px;height:1080px;">
-      <div id="item138188" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item133193" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item133194" class="pageItem" alt="CONTACT   AGENT NAME  ">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="CONTACT   AGENT NAME  " class="svg-img pageItem" data-src="assets/images/item_133194.svg"/>
+    <div class="page-scale-wrap mq-1920 mq-default" data-layout-name="Desktop" style="width:1920px;height:1080px;">
+      <div id="item241658" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item235261" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item235262" class="pageItem" alt="CONTACT   AGENT NAME  ">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="CONTACT   AGENT NAME  " class="svg-img pageItem" data-src="assets/images/item_235262.svg"/>
       </div>
-      <div id="item133219" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item138221" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item138149" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item133221" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item138281" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item133223" class="pageItem" alt="SUBJECT PROPERTY INVESTMENT SUMMARY">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="SUBJECT PROPERTY INVESTMENT SUMMARY" class="svg-img pageItem" data-src="assets/images/item_133223.svg"/>
+      <div id="item235287" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item235288" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item240533" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item235289" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item241778" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item235291" class="pageItem" alt="SUBJECT PROPERTY INVESTMENT SUMMARY">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="SUBJECT PROPERTY INVESTMENT SUMMARY" class="svg-img pageItem" data-src="assets/images/item_235291.svg"/>
       </div>
-      <div id="item133248" class="pageItem" alt="Tenant Street Address City State Zip GLA Lot Size Year Built *Optional Note">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Tenant Street Address City State Zip GLA Lot Size Year Built *Optional Note" class="svg-img pageItem" data-src="assets/images/item_133248.svg"/>
+      <div id="item235316" class="pageItem" alt="Tenant">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Tenant" class="svg-img pageItem" data-src="assets/images/item_235316.svg"/>
       </div>
-      <div id="item133273" class="pageItem" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_133273.svg"/>
+      <div id="item235341" class="pageItem" alt="Street Address">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Street Address" class="svg-img pageItem" data-src="assets/images/item_235341.svg"/>
       </div>
-      <div id="item133298" class="pageItem" alt="Lorem ipsum Lorem ipsum dolor sit unde enim amet, consectetur adipiscing elit, sed omnis qui do eiusmod tempor incidi   ">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem ipsum Lorem ipsum dolor sit unde enim amet, consectetur adipiscing elit, sed omnis qui do eiusmod tempor incidi   " class="svg-img pageItem" data-src="assets/images/item_133298.svg"/>
+      <div id="item235366" class="pageItem" alt="City">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="City" class="svg-img pageItem" data-src="assets/images/item_235366.svg"/>
       </div>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;left:115px !important;top:228px !important;" id="item133324" data-src="assets/images/item_133324.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;left:115px !important;top:259px !important;" id="item133326" data-src="assets/images/item_133326.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;left:115px !important;top:291px !important;" id="item133327" data-src="assets/images/item_133327.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;left:115px !important;top:323px !important;" id="item133328" data-src="assets/images/item_133328.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;left:115px !important;top:355px !important;" id="item133329" data-src="assets/images/item_133329.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;left:115px !important;top:386px !important;" id="item133330" data-src="assets/images/item_133330.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;left:115px !important;top:418px !important;" id="item133332" data-src="assets/images/item_133332.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;left:115px !important;top:450px !important;" id="item133333" data-src="assets/images/item_133333.png"/>
-      <div id="item133336" class="pageItem" alt="Agent 1">
-        <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_133336.svg"/>
+      <div id="item235391" class="pageItem" alt="State">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="State" class="svg-img pageItem" data-src="assets/images/item_235391.svg"/>
       </div>
-      <div id="item133362" class="pageItem" alt="Agent 1">
-        <img src="assets/images/blank.gif" style="top:-11px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_133362.svg"/>
+      <div id="item235416" class="pageItem" alt="Zip">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Zip" class="svg-img pageItem" data-src="assets/images/item_235416.svg"/>
       </div>
-      <div id="item133389" class="pageItem" alt="Agent 1">
-        <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_133389.svg"/>
+      <div id="item235441" class="pageItem" alt="GLA">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="GLA" class="svg-img pageItem" data-src="assets/images/item_235441.svg"/>
       </div>
-      <div id="item133414" class="pageItem" alt="Agent 1">
-        <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_133414.svg"/>
+      <div id="item235467" class="pageItem" alt="Lot Size">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lot Size" class="svg-img pageItem" data-src="assets/images/item_235467.svg"/>
       </div>
-      <div id="item133441" class="pageItem" alt="Agent 1">
-        <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_133441.svg"/>
+      <div id="item235492" class="pageItem" alt="Year Built">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Year Built" class="svg-img pageItem" data-src="assets/images/item_235492.svg"/>
       </div>
-      <div id="item133466" class="pageItem" alt="Agent 1">
-        <img src="assets/images/blank.gif" style="top:-11px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_133466.svg"/>
+      <div id="item235517" class="pageItem" alt="*Optional Note">
+        <img src="assets/images/blank.gif" style="top:-5px" alt="*Optional Note" class="svg-img pageItem" data-src="assets/images/item_235517.svg"/>
       </div>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:588px !important;top:195px !important;" id="item133334" data-src="assets/images/item_133334.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:588px !important;top:186px !important;mix-blend-mode:overlay;" id="item133491" data-src="assets/images/item_133491.png"/>
-      <div id="item133642" class="pageItem" alt=" ">
-        <img src="assets/images/blank.gif" style="top:-13px" alt=" " class="svg-img pageItem" data-src="assets/images/item_133642.svg"/>
+      <div id="item235542" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_235542.svg"/>
       </div>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:588px !important;top:386px !important;" id="item133439" data-src="assets/images/item_133439.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:588px !important;top:377px !important;mix-blend-mode:overlay;" id="item133592" data-src="assets/images/item_133592.png"/>
-      <div id="item133668" class="pageItem" alt=" ">
-        <img src="assets/images/blank.gif" style="top:-13px" alt=" " class="svg-img pageItem" data-src="assets/images/item_133668.svg"/>
+      <div id="item235567" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_235567.svg"/>
       </div>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:588px !important;top:291px !important;" id="item133387" data-src="assets/images/item_133387.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:588px !important;top:282px !important;mix-blend-mode:overlay;" id="item133541" data-src="assets/images/item_133541.png"/>
-      <div id="item133693" class="pageItem" alt="%">
-        <img src="assets/images/blank.gif" style="top:-13px" alt="%" class="svg-img pageItem" data-src="assets/images/item_133693.svg"/>
+      <div id="item235592" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_235592.svg"/>
       </div>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:861px !important;top:291px !important;" id="item133388" data-src="assets/images/item_133388.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:861px !important;top:282px !important;mix-blend-mode:overlay;" id="item133567" data-src="assets/images/item_133567.png"/>
-      <div id="item133718" class="pageItem" alt="%">
-        <img src="assets/images/blank.gif" style="top:-13px" alt="%" class="svg-img pageItem" data-src="assets/images/item_133718.svg"/>
+      <div id="item235617" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_235617.svg"/>
       </div>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:861px !important;top:195px !important;" id="item133335" data-src="assets/images/item_133335.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:861px !important;top:186px !important;mix-blend-mode:overlay;" id="item133516" data-src="assets/images/item_133516.png"/>
-      <div id="item133743" class="pageItem" alt=" ">
-        <img src="assets/images/blank.gif" style="top:-13px" alt=" " class="svg-img pageItem" data-src="assets/images/item_133743.svg"/>
+      <div id="item235642" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_235642.svg"/>
       </div>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:861px !important;top:386px !important;" id="item133440" data-src="assets/images/item_133440.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:861px !important;top:377px !important;mix-blend-mode:overlay;" id="item133617" data-src="assets/images/item_133617.png"/>
-      <div id="item133768" class="pageItem" alt=" ">
-        <img src="assets/images/blank.gif" style="top:-13px" alt=" " class="svg-img pageItem" data-src="assets/images/item_133768.svg"/>
+      <div id="item235667" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_235667.svg"/>
       </div>
-      <div id="item233030" class="pageItem" alt="03">
-        <img src="assets/images/blank.gif" style="top:-7px" alt="03" class="svg-img pageItem" data-src="assets/images/item_233030.svg"/>
+      <div id="item235693" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_235693.svg"/>
+      </div>
+      <div id="item235718" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_235718.svg"/>
+      </div>
+      <div id="item235743" class="pageItem" alt="Lorem ipsum Lorem ipsum dolor sit unde enim amet, consectetur adipiscing elit, sed omnis qui do eiusmod tempor incidi   ">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem ipsum Lorem ipsum dolor sit unde enim amet, consectetur adipiscing elit, sed omnis qui do eiusmod tempor incidi   " class="svg-img pageItem" data-src="assets/images/item_235743.svg"/>
+      </div>
+      <div class="pageItem group" alt="Group" style="left:116px !important;top:228px !important;" id="item235768">
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:413px !important;" id="item235769" data-src="assets/images/item_235769.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:413px !important;top:32px !important;" id="item235770" data-src="assets/images/item_235770.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:413px !important;top:64px !important;" id="item235771" data-src="assets/images/item_235771.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:413px !important;top:95px !important;" id="item235772" data-src="assets/images/item_235772.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:413px !important;top:127px !important;" id="item235773" data-src="assets/images/item_235773.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:413px !important;top:159px !important;" id="item235774" data-src="assets/images/item_235774.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:413px !important;top:191px !important;" id="item235775" data-src="assets/images/item_235775.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:413px !important;top:223px !important;" id="item235776" data-src="assets/images/item_235776.png"/>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:572px !important;top:194px !important;" id="item235777" data-src="assets/images/item_235777.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:840px !important;top:194px !important;" id="item235779" data-src="assets/images/item_235779.png"/>
+      <div id="item235780" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_235780.svg"/>
+      </div>
+      <div id="item235805" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_235805.svg"/>
+      </div>
+      <div id="item235830" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_235830.svg"/>
+      </div>
+      <div id="item235855" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_235855.svg"/>
+      </div>
+      <div id="item235880" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_235880.svg"/>
+      </div>
+      <div id="item235905" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_235905.svg"/>
+      </div>
+      <div id="item235930" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_235930.svg"/>
+      </div>
+      <div id="item235955" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_235955.svg"/>
+      </div>
+      <div id="item235980" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_235980.svg"/>
+      </div>
+      <div id="item236005" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_236005.svg"/>
+      </div>
+      <div id="item236030" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_236030.svg"/>
+      </div>
+      <div id="item236055" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_236055.svg"/>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:572px !important;top:289px !important;" id="item236080" data-src="assets/images/item_236080.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:840px !important;top:289px !important;" id="item236081" data-src="assets/images/item_236081.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:572px !important;top:385px !important;" id="item236082" data-src="assets/images/item_236082.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:840px !important;top:385px !important;" id="item236083" data-src="assets/images/item_236083.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:572px !important;top:185px !important;mix-blend-mode:overlay;" id="item236084" data-src="assets/images/item_236084.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:840px !important;top:185px !important;mix-blend-mode:overlay;" id="item236110" data-src="assets/images/item_236110.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:572px !important;top:280px !important;mix-blend-mode:overlay;" id="item236135" data-src="assets/images/item_236135.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:840px !important;top:280px !important;mix-blend-mode:overlay;" id="item236161" data-src="assets/images/item_236161.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:572px !important;top:376px !important;mix-blend-mode:overlay;" id="item236186" data-src="assets/images/item_236186.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:840px !important;top:376px !important;mix-blend-mode:overlay;" id="item236211" data-src="assets/images/item_236211.png"/>
+      <div id="item236236" class="pageItem" alt=" ">
+        <img src="assets/images/blank.gif" style="top:-13px" alt=" " class="svg-img pageItem" data-src="assets/images/item_236236.svg"/>
+      </div>
+      <div id="item236261" class="pageItem" alt=" ">
+        <img src="assets/images/blank.gif" style="top:-13px" alt=" " class="svg-img pageItem" data-src="assets/images/item_236261.svg"/>
+      </div>
+      <div id="item236286" class="pageItem" alt="%">
+        <img src="assets/images/blank.gif" style="top:-13px" alt="%" class="svg-img pageItem" data-src="assets/images/item_236286.svg"/>
+      </div>
+      <div id="item236311" class="pageItem" alt="%">
+        <img src="assets/images/blank.gif" style="top:-13px" alt="%" class="svg-img pageItem" data-src="assets/images/item_236311.svg"/>
+      </div>
+      <div id="item236336" class="pageItem" alt=" ">
+        <img src="assets/images/blank.gif" style="top:-13px" alt=" " class="svg-img pageItem" data-src="assets/images/item_236336.svg"/>
+      </div>
+      <div id="item236361" class="pageItem" alt=" ">
+        <img src="assets/images/blank.gif" style="top:-13px" alt=" " class="svg-img pageItem" data-src="assets/images/item_236361.svg"/>
+      </div>
+      <div id="item262380" class="pageItem" alt="03">
+        <img src="assets/images/blank.gif" style="top:-7px" alt="03" class="svg-img pageItem" data-src="assets/images/item_262380.svg"/>
       </div>
     </div>
-    <div class="page-scale-wrap mq-375" data-layout-name="Mobile" style="width:375px;height:800px;">
-      <div id="item232477" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item224755" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item232479" class="pageItem" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_232479.svg"/>
+    <div class="page-scale-wrap mq-375" data-layout-name="Mobile" style="width:375px;height:904px;">
+      <div id="item250287" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item244304" class="pageItem" alt="CONTACT   AGENT NAME  ">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="CONTACT   AGENT NAME  " class="svg-img pageItem" data-src="assets/images/item_244304.svg"/>
       </div>
-      <div id="item232620" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item232622" class="pageItem" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_232622.svg"/>
+      <div id="item243156" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item243157" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item250285" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item250283" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Rectangle" style="left:72px !important;top:617px !important;" id="item250565" data-src="assets/images/item_250565.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Rectangle" style="left:72px !important;top:761px !important;" id="item250567" data-src="assets/images/item_250567.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Rectangle" style="left:229px !important;top:617px !important;" id="item250568" data-src="assets/images/item_250568.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Rectangle" style="left:218px !important;top:761px !important;" id="item250569" data-src="assets/images/item_250569.png"/>
+      <div id="item243229" class="pageItem" alt="Street Address">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Street Address" class="svg-img pageItem" data-src="assets/images/item_243229.svg"/>
       </div>
-      <div id="item232647" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item232302" class="pageItem" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum">
-        <img src="assets/images/blank.gif" style="top:-10px" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_232302.svg"/>
+      <div id="item243255" class="pageItem" alt="City">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="City" class="svg-img pageItem" data-src="assets/images/item_243255.svg"/>
       </div>
-      <div id="item232328" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item232329" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:398px !important;" id="item224757" data-src="assets/images/item_224757.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:429px !important;" id="item224759" data-src="assets/images/item_224759.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:32px !important;top:243px !important;" id="item224760" data-src="assets/images/item_224760.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:32px !important;top:234px !important;mix-blend-mode:overlay;" id="item224763" data-src="assets/images/item_224763.png"/>
-      <div id="item224788" class="pageItem" alt=" ">
-        <img src="assets/images/blank.gif" style="top:-13px" alt=" " class="svg-img pageItem" data-src="assets/images/item_224788.svg"/>
+      <div id="item243280" class="pageItem" alt="State">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="State" class="svg-img pageItem" data-src="assets/images/item_243280.svg"/>
       </div>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:32px !important;top:322px !important;" id="item224814" data-src="assets/images/item_224814.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:32px !important;top:313px !important;mix-blend-mode:overlay;" id="item224816" data-src="assets/images/item_224816.png"/>
-      <div id="item224841" class="pageItem" alt="%">
-        <img src="assets/images/blank.gif" style="top:-13px" alt="%" class="svg-img pageItem" data-src="assets/images/item_224841.svg"/>
+      <div id="item243305" class="pageItem" alt="Zip">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Zip" class="svg-img pageItem" data-src="assets/images/item_243305.svg"/>
       </div>
-      <div id="item224866" class="pageItem" alt="Increases">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Increases" class="svg-img pageItem" data-src="assets/images/item_224866.svg"/>
+      <div id="item243405" class="pageItem" alt="*Optional Note">
+        <img src="assets/images/blank.gif" style="top:-5px" alt="*Optional Note" class="svg-img pageItem" data-src="assets/images/item_243405.svg"/>
       </div>
-      <div id="item224891" class="pageItem" alt="Options">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Options" class="svg-img pageItem" data-src="assets/images/item_224891.svg"/>
+      <div id="item243455" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_243455.svg"/>
       </div>
-      <div id="item232122" class="pageItem" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_232122.svg"/>
+      <div id="item243480" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_243480.svg"/>
       </div>
-      <div id="item232156" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item232159" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item232193" class="pageItem" alt="Agent 1">
-        <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_232193.svg"/>
+      <div id="item243505" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_243505.svg"/>
       </div>
-      <div id="item232218" class="pageItem" alt="Agent 1">
-        <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_232218.svg"/>
+      <div id="item243530" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_243530.svg"/>
       </div>
-      <div id="item232248" class="pageItem" alt="Lorem Ipsum ">
-        <img src="assets/images/blank.gif" style="top:-10px" alt="Lorem Ipsum " class="svg-img pageItem" data-src="assets/images/item_232248.svg"/>
+      <div id="item243631" class="pageItem" alt="Lorem ipsum Lorem ipsum dolor sit unde enim amet, consectetur adipiscing elit, sed omnis qui do eiusmod tempor incidi   ">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem ipsum Lorem ipsum dolor sit unde enim amet, consectetur adipiscing elit, sed omnis qui do eiusmod tempor incidi   " class="svg-img pageItem" data-src="assets/images/item_243631.svg"/>
       </div>
-      <div id="item224740" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item232366" class="pageItem" alt="Lease Guarantor">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Lease Guarantor" class="svg-img pageItem" data-src="assets/images/item_232366.svg"/>
+      <div class="pageItem group" alt="Group" style="left:-969px !important;top:147px !important;" id="item243656">
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:413px !important;" id="item243657" data-src="assets/images/item_243657.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:413px !important;top:32px !important;" id="item243658" data-src="assets/images/item_243658.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:413px !important;top:64px !important;" id="item243659" data-src="assets/images/item_243659.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:413px !important;top:95px !important;" id="item243660" data-src="assets/images/item_243660.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:413px !important;top:127px !important;" id="item243661" data-src="assets/images/item_243661.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:413px !important;top:159px !important;" id="item243663" data-src="assets/images/item_243663.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:413px !important;top:191px !important;" id="item243664" data-src="assets/images/item_243664.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:413px !important;top:223px !important;" id="item243665" data-src="assets/images/item_243665.png"/>
       </div>
-      <div id="item232391" class="pageItem" alt="Years in Business">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Years in Business" class="svg-img pageItem" data-src="assets/images/item_232391.svg"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:-245px !important;top:113px !important;" id="item243667" data-src="assets/images/item_243667.png"/>
+      <div id="item243743" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_243743.svg"/>
       </div>
-      <div id="item232416" class="pageItem" alt="Ownership ">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Ownership " class="svg-img pageItem" data-src="assets/images/item_232416.svg"/>
+      <div id="item243894" class="pageItem" alt="Agent 1">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_243894.svg"/>
       </div>
-      <div id="item232441" class="pageItem" alt="Number of Locations">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Number of Locations" class="svg-img pageItem" data-src="assets/images/item_232441.svg"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:-245px !important;top:209px !important;" id="item243971" data-src="assets/images/item_243971.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:-245px !important;top:304px !important;" id="item243973" data-src="assets/images/item_243973.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:-245px !important;top:104px !important;mix-blend-mode:overlay;" id="item243999" data-src="assets/images/item_243999.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:-245px !important;top:200px !important;mix-blend-mode:overlay;" id="item244049" data-src="assets/images/item_244049.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:-245px !important;top:295px !important;mix-blend-mode:overlay;" id="item244099" data-src="assets/images/item_244099.png"/>
+      <div id="item244199" class="pageItem" alt="%">
+        <img src="assets/images/blank.gif" style="top:-13px" alt="%" class="svg-img pageItem" data-src="assets/images/item_244199.svg"/>
       </div>
-      <div id="item232466" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item232468" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item232469" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item232470" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item232598" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item232648" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item244224" class="pageItem" alt=" ">
+        <img src="assets/images/blank.gif" style="top:-13px" alt=" " class="svg-img pageItem" data-src="assets/images/item_244224.svg"/>
+      </div>
+      <div id="item244250" class="pageItem" alt=" ">
+        <img src="assets/images/blank.gif" style="top:-13px" alt=" " class="svg-img pageItem" data-src="assets/images/item_244250.svg"/>
+      </div>
+      <div id="item244349" class="pageItem" alt="SUBJECT PROPERTY LEASE SUMMARY">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="SUBJECT PROPERTY LEASE SUMMARY" class="svg-img pageItem" data-src="assets/images/item_244349.svg"/>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:32px !important;top:329px !important;" id="item250290" data-src="assets/images/item_250290.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:32px !important;top:424px !important;" id="item250293" data-src="assets/images/item_250293.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:32px !important;top:320px !important;mix-blend-mode:overlay;" id="item250298" data-src="assets/images/item_250298.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:32px !important;top:415px !important;mix-blend-mode:overlay;" id="item250323" data-src="assets/images/item_250323.png"/>
+      <div id="item250374" class="pageItem" alt=" ">
+        <img src="assets/images/blank.gif" style="top:-13px" alt=" " class="svg-img pageItem" data-src="assets/images/item_250374.svg"/>
+      </div>
+      <div id="item250424" class="pageItem" alt="%">
+        <img src="assets/images/blank.gif" style="top:-13px" alt="%" class="svg-img pageItem" data-src="assets/images/item_250424.svg"/>
+      </div>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:408px !important;" id="item250449" data-src="assets/images/item_250449.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:505px !important;" id="item250451" data-src="assets/images/item_250451.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:537px !important;" id="item250453" data-src="assets/images/item_250453.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:569px !important;" id="item250454" data-src="assets/images/item_250454.png"/>
+      <div id="item244374" class="pageItem" alt="Lease Type">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lease Type" class="svg-img pageItem" data-src="assets/images/item_244374.svg"/>
+      </div>
+      <div id="item244626" class="pageItem" alt="Term Remaining">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Term Remaining" class="svg-img pageItem" data-src="assets/images/item_244626.svg"/>
+      </div>
+      <div id="item244676" class="pageItem" alt="Increases">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Increases" class="svg-img pageItem" data-src="assets/images/item_244676.svg"/>
+      </div>
+      <div id="item244726" class="pageItem" alt="Options">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Options" class="svg-img pageItem" data-src="assets/images/item_244726.svg"/>
+      </div>
+      <div id="item244820" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-10px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_244820.svg"/>
+      </div>
+      <div id="item245071" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-10px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_245071.svg"/>
+      </div>
+      <div id="item245122" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_245122.svg"/>
+      </div>
+      <div id="item245172" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_245172.svg"/>
+      </div>
+      <div id="item244550" class="pageItem" alt="Lease Guarantor">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lease Guarantor" class="svg-img pageItem" data-src="assets/images/item_244550.svg"/>
+      </div>
+      <div id="item244651" class="pageItem" alt="Ownership">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Ownership" class="svg-img pageItem" data-src="assets/images/item_244651.svg"/>
+      </div>
+      <div id="item244701" class="pageItem" alt="Years in Business">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Years in Business" class="svg-img pageItem" data-src="assets/images/item_244701.svg"/>
+      </div>
+      <div id="item244751" class="pageItem" alt="Number of Locations">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Number of Locations" class="svg-img pageItem" data-src="assets/images/item_244751.svg"/>
+      </div>
+      <div id="item244995" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_244995.svg"/>
+      </div>
+      <div id="item245097" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_245097.svg"/>
+      </div>
+      <div id="item245147" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_245147.svg"/>
+      </div>
+      <div id="item245197" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_245197.svg"/>
+      </div>
     </div>
   </li>
   <li class="page" data-name="04">
@@ -500,17 +751,53 @@
       <div id="item3352" class="pageItem" alt="SUBJECT PROPERTY LEASE SUMMARY">
         <img src="assets/images/blank.gif" style="top:-4px" alt="SUBJECT PROPERTY LEASE SUMMARY" class="svg-img pageItem" data-src="assets/images/item_3352.svg"/>
       </div>
-      <div id="item14348" class="pageItem" alt="Lease Type Type of Ownership Original Lease Term Commencement Date Lease Expiration Term Remaining Increases Options    ">
-        <img src="assets/images/blank.gif" style="top:-4px" alt="Lease Type Type of Ownership Original Lease Term Commencement Date Lease Expiration Term Remaining Increases Options    " class="svg-img pageItem" data-src="assets/images/item_14348.svg"/>
+      <div id="item14348" class="pageItem" alt="Lease Type">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Lease Type" class="svg-img pageItem" data-src="assets/images/item_14348.svg"/>
       </div>
-      <div id="item14373" class="pageItem" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum">
-        <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_14373.svg"/>
+      <div id="item234616" class="pageItem" alt="Real Estate Taxes">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Real Estate Taxes" class="svg-img pageItem" data-src="assets/images/item_234616.svg"/>
       </div>
-      <div id="item14435" class="pageItem" alt="Real Estate Taxes Insurance Roof & Structure Lease Guarantor Company Name Ownership Years in Business Number of Locat   ">
-        <img src="assets/images/blank.gif" style="top:-4px" alt="Real Estate Taxes Insurance Roof & Structure Lease Guarantor Company Name Ownership Years in Business Number of Locat   " class="svg-img pageItem" data-src="assets/images/item_14435.svg"/>
+      <div id="item234440" class="pageItem" alt="Type of Ownership">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Type of Ownership" class="svg-img pageItem" data-src="assets/images/item_234440.svg"/>
       </div>
-      <div id="item14460" class="pageItem" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum">
-        <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_14460.svg"/>
+      <div id="item234641" class="pageItem" alt="Insurance">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Insurance" class="svg-img pageItem" data-src="assets/images/item_234641.svg"/>
+      </div>
+      <div id="item234465" class="pageItem" alt="Original Lease Term">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Original Lease Term" class="svg-img pageItem" data-src="assets/images/item_234465.svg"/>
+      </div>
+      <div id="item234666" class="pageItem" alt="Roof & Structure">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Roof & Structure" class="svg-img pageItem" data-src="assets/images/item_234666.svg"/>
+      </div>
+      <div id="item234490" class="pageItem" alt="Commencement Date">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Commencement Date" class="svg-img pageItem" data-src="assets/images/item_234490.svg"/>
+      </div>
+      <div id="item234691" class="pageItem" alt="Lease Guarantor">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Lease Guarantor" class="svg-img pageItem" data-src="assets/images/item_234691.svg"/>
+      </div>
+      <div id="item234515" class="pageItem" alt="Lease Expiration">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Lease Expiration" class="svg-img pageItem" data-src="assets/images/item_234515.svg"/>
+      </div>
+      <div id="item234717" class="pageItem" alt="Company Name">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Company Name" class="svg-img pageItem" data-src="assets/images/item_234717.svg"/>
+      </div>
+      <div id="item234540" class="pageItem" alt="Term Remaining">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Term Remaining" class="svg-img pageItem" data-src="assets/images/item_234540.svg"/>
+      </div>
+      <div id="item234742" class="pageItem" alt="Ownership">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Ownership" class="svg-img pageItem" data-src="assets/images/item_234742.svg"/>
+      </div>
+      <div id="item234566" class="pageItem" alt="Increases">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Increases" class="svg-img pageItem" data-src="assets/images/item_234566.svg"/>
+      </div>
+      <div id="item234767" class="pageItem" alt="Years in Business">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Years in Business" class="svg-img pageItem" data-src="assets/images/item_234767.svg"/>
+      </div>
+      <div id="item234591" class="pageItem" alt="Options">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Options" class="svg-img pageItem" data-src="assets/images/item_234591.svg"/>
+      </div>
+      <div id="item234792" class="pageItem" alt="Number of Locations">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Number of Locations" class="svg-img pageItem" data-src="assets/images/item_234792.svg"/>
       </div>
       <div class="pageItem group" alt="Group" style="left:66px !important;top:144px !important;" id="item24413">
         <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:196px !important;" id="item24414" data-src="assets/images/item_24414.png"/>
@@ -535,114 +822,290 @@
       <div id="item24498" class="pageItem" alt="Lorem ipsum Lorem ipsum dolor sit unde enim amet, consectetur adipiscing elit, sed omnis qui do eiusmod tempor incidi   ">
         <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem ipsum Lorem ipsum dolor sit unde enim amet, consectetur adipiscing elit, sed omnis qui do eiusmod tempor incidi   " class="svg-img pageItem" data-src="assets/images/item_24498.svg"/>
       </div>
-      <div id="item233386" class="pageItem" alt="04">
-        <img src="assets/images/blank.gif" style="top:-4px" alt="04" class="svg-img pageItem" data-src="assets/images/item_233386.svg"/>
+      <div id="item233995" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_233995.svg"/>
+      </div>
+      <div id="item234195" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_234195.svg"/>
+      </div>
+      <div id="item234020" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_234020.svg"/>
+      </div>
+      <div id="item234220" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_234220.svg"/>
+      </div>
+      <div id="item234045" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_234045.svg"/>
+      </div>
+      <div id="item234245" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_234245.svg"/>
+      </div>
+      <div id="item234070" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_234070.svg"/>
+      </div>
+      <div id="item234270" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_234270.svg"/>
+      </div>
+      <div id="item234095" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_234095.svg"/>
+      </div>
+      <div id="item234295" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_234295.svg"/>
+      </div>
+      <div id="item234120" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_234120.svg"/>
+      </div>
+      <div id="item234320" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_234320.svg"/>
+      </div>
+      <div id="item234145" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_234145.svg"/>
+      </div>
+      <div id="item234346" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_234346.svg"/>
+      </div>
+      <div id="item234170" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_234170.svg"/>
+      </div>
+      <div id="item234371" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_234371.svg"/>
+      </div>
+      <div id="item234817" class="pageItem" alt="*Optional Note">
+        <img src="assets/images/blank.gif" style="top:-3px" alt="*Optional Note" class="svg-img pageItem" data-src="assets/images/item_234817.svg"/>
+      </div>
+      <div id="item262733" class="pageItem" alt="04">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="04" class="svg-img pageItem" data-src="assets/images/item_262733.svg"/>
       </div>
     </div>
-    <div class="page-scale-wrap mq-1920 mq-default" data-layout-name="Presentation V2" style="width:1920px;height:1080px;">
-      <div id="item138188" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item133822" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item133823" class="pageItem" alt="CONTACT   AGENT NAME  ">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="CONTACT   AGENT NAME  " class="svg-img pageItem" data-src="assets/images/item_133823.svg"/>
+    <div class="page-scale-wrap mq-1920 mq-default" data-layout-name="Desktop" style="width:1920px;height:1080px;">
+      <div id="item241658" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item236417" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item236418" class="pageItem" alt="CONTACT   AGENT NAME  ">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="CONTACT   AGENT NAME  " class="svg-img pageItem" data-src="assets/images/item_236418.svg"/>
       </div>
-      <div id="item133848" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item133849" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item138149" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item133850" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item133851" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item133852" class="pageItem" alt="SUBJECT PROPERTY LEASE SUMMARY">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="SUBJECT PROPERTY LEASE SUMMARY" class="svg-img pageItem" data-src="assets/images/item_133852.svg"/>
+      <div id="item236443" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item241834" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item240533" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item236445" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item241832" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item236447" class="pageItem" alt="SUBJECT PROPERTY LEASE SUMMARY">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="SUBJECT PROPERTY LEASE SUMMARY" class="svg-img pageItem" data-src="assets/images/item_236447.svg"/>
       </div>
-      <div id="item133877" class="pageItem" alt="Lease Type Type of Ownership Original Lease Term Commencement Date Lease Expiration Term Remaining Increases Options    ">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Lease Type Type of Ownership Original Lease Term Commencement Date Lease Expiration Term Remaining Increases Options    " class="svg-img pageItem" data-src="assets/images/item_133877.svg"/>
+      <div id="item236473" class="pageItem" alt="Lease Type">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lease Type" class="svg-img pageItem" data-src="assets/images/item_236473.svg"/>
       </div>
-      <div id="item133902" class="pageItem" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_133902.svg"/>
+      <div id="item236498" class="pageItem" alt="Real Estate Taxes">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Real Estate Taxes" class="svg-img pageItem" data-src="assets/images/item_236498.svg"/>
       </div>
-      <div id="item133928" class="pageItem" alt="Real Estate Taxes Insurance Roof & Structure Lease Guarantor Company Name Ownership Years in Business Number of Locat   ">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Real Estate Taxes Insurance Roof & Structure Lease Guarantor Company Name Ownership Years in Business Number of Locat   " class="svg-img pageItem" data-src="assets/images/item_133928.svg"/>
+      <div id="item236523" class="pageItem" alt="Type of Ownership">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Type of Ownership" class="svg-img pageItem" data-src="assets/images/item_236523.svg"/>
       </div>
-      <div id="item133953" class="pageItem" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_133953.svg"/>
+      <div id="item236548" class="pageItem" alt="Insurance">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Insurance" class="svg-img pageItem" data-src="assets/images/item_236548.svg"/>
       </div>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;left:115px !important;top:228px !important;" id="item133979" data-src="assets/images/item_133979.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;left:115px !important;top:259px !important;" id="item133980" data-src="assets/images/item_133980.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;left:115px !important;top:291px !important;" id="item133981" data-src="assets/images/item_133981.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;left:115px !important;top:323px !important;" id="item133982" data-src="assets/images/item_133982.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;left:115px !important;top:355px !important;" id="item133983" data-src="assets/images/item_133983.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;left:115px !important;top:386px !important;" id="item133984" data-src="assets/images/item_133984.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;left:115px !important;top:418px !important;" id="item133985" data-src="assets/images/item_133985.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;left:115px !important;top:450px !important;" id="item133986" data-src="assets/images/item_133986.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;left:588px !important;top:228px !important;" id="item138269" data-src="assets/images/item_138269.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;left:588px !important;top:259px !important;" id="item138271" data-src="assets/images/item_138271.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;left:588px !important;top:291px !important;" id="item138272" data-src="assets/images/item_138272.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;left:588px !important;top:323px !important;" id="item138273" data-src="assets/images/item_138273.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;left:588px !important;top:355px !important;" id="item138274" data-src="assets/images/item_138274.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;left:588px !important;top:386px !important;" id="item138275" data-src="assets/images/item_138275.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;left:588px !important;top:418px !important;" id="item138276" data-src="assets/images/item_138276.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;left:588px !important;top:450px !important;" id="item138277" data-src="assets/images/item_138277.png"/>
-      <div id="item133996" class="pageItem" alt="Lorem ipsum Lorem ipsum dolor sit unde enim amet, consectetur adipiscing elit, sed omnis qui do eiusmod tempor incidi   ">
-        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem ipsum Lorem ipsum dolor sit unde enim amet, consectetur adipiscing elit, sed omnis qui do eiusmod tempor incidi   " class="svg-img pageItem" data-src="assets/images/item_133996.svg"/>
+      <div id="item236573" class="pageItem" alt="Original Lease Term">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Original Lease Term" class="svg-img pageItem" data-src="assets/images/item_236573.svg"/>
       </div>
-      <div id="item233003" class="pageItem" alt="04">
-        <img src="assets/images/blank.gif" style="top:-7px" alt="04" class="svg-img pageItem" data-src="assets/images/item_233003.svg"/>
+      <div id="item236598" class="pageItem" alt="Roof & Structure">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Roof & Structure" class="svg-img pageItem" data-src="assets/images/item_236598.svg"/>
+      </div>
+      <div id="item236623" class="pageItem" alt="Commencement Date">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Commencement Date" class="svg-img pageItem" data-src="assets/images/item_236623.svg"/>
+      </div>
+      <div id="item236648" class="pageItem" alt="Lease Guarantor">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lease Guarantor" class="svg-img pageItem" data-src="assets/images/item_236648.svg"/>
+      </div>
+      <div id="item236673" class="pageItem" alt="Lease Expiration">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lease Expiration" class="svg-img pageItem" data-src="assets/images/item_236673.svg"/>
+      </div>
+      <div id="item236698" class="pageItem" alt="Company Name">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Company Name" class="svg-img pageItem" data-src="assets/images/item_236698.svg"/>
+      </div>
+      <div id="item236723" class="pageItem" alt="Term Remaining">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Term Remaining" class="svg-img pageItem" data-src="assets/images/item_236723.svg"/>
+      </div>
+      <div id="item236749" class="pageItem" alt="Ownership">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Ownership" class="svg-img pageItem" data-src="assets/images/item_236749.svg"/>
+      </div>
+      <div id="item236774" class="pageItem" alt="Increases">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Increases" class="svg-img pageItem" data-src="assets/images/item_236774.svg"/>
+      </div>
+      <div id="item236799" class="pageItem" alt="Years in Business">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Years in Business" class="svg-img pageItem" data-src="assets/images/item_236799.svg"/>
+      </div>
+      <div id="item236824" class="pageItem" alt="Options">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Options" class="svg-img pageItem" data-src="assets/images/item_236824.svg"/>
+      </div>
+      <div id="item236849" class="pageItem" alt="Number of Locations">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Number of Locations" class="svg-img pageItem" data-src="assets/images/item_236849.svg"/>
+      </div>
+      <div class="pageItem group" alt="Group" style="left:115px !important;top:228px !important;" id="item236900">
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;" id="item236901" data-src="assets/images/item_236901.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:32px !important;" id="item236902" data-src="assets/images/item_236902.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:64px !important;" id="item236903" data-src="assets/images/item_236903.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:95px !important;" id="item236904" data-src="assets/images/item_236904.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:127px !important;" id="item236905" data-src="assets/images/item_236905.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:159px !important;" id="item236906" data-src="assets/images/item_236906.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:191px !important;" id="item236907" data-src="assets/images/item_236907.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:223px !important;" id="item236908" data-src="assets/images/item_236908.png"/>
+      </div>
+      <div class="pageItem group" alt="Group" style="left:589px !important;top:228px !important;" id="item236909">
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;" id="item236910" data-src="assets/images/item_236910.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:32px !important;" id="item236911" data-src="assets/images/item_236911.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:64px !important;" id="item236912" data-src="assets/images/item_236912.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:95px !important;" id="item236913" data-src="assets/images/item_236913.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:127px !important;" id="item236914" data-src="assets/images/item_236914.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:159px !important;" id="item236915" data-src="assets/images/item_236915.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:191px !important;" id="item236916" data-src="assets/images/item_236916.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:223px !important;" id="item236917" data-src="assets/images/item_236917.png"/>
+      </div>
+      <div id="item236919" class="pageItem" alt="Lorem ipsum Lorem ipsum dolor sit unde enim amet, consectetur adipiscing elit, sed omnis qui do eiusmod tempor incidi   ">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem ipsum Lorem ipsum dolor sit unde enim amet, consectetur adipiscing elit, sed omnis qui do eiusmod tempor incidi   " class="svg-img pageItem" data-src="assets/images/item_236919.svg"/>
+      </div>
+      <div id="item236944" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_236944.svg"/>
+      </div>
+      <div id="item236969" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_236969.svg"/>
+      </div>
+      <div id="item236994" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_236994.svg"/>
+      </div>
+      <div id="item237019" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_237019.svg"/>
+      </div>
+      <div id="item237044" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_237044.svg"/>
+      </div>
+      <div id="item237069" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_237069.svg"/>
+      </div>
+      <div id="item237094" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_237094.svg"/>
+      </div>
+      <div id="item237120" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_237120.svg"/>
+      </div>
+      <div id="item237145" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_237145.svg"/>
+      </div>
+      <div id="item237170" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_237170.svg"/>
+      </div>
+      <div id="item237195" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_237195.svg"/>
+      </div>
+      <div id="item237221" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_237221.svg"/>
+      </div>
+      <div id="item237246" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_237246.svg"/>
+      </div>
+      <div id="item237271" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_237271.svg"/>
+      </div>
+      <div id="item237296" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_237296.svg"/>
+      </div>
+      <div id="item237321" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_237321.svg"/>
+      </div>
+      <div id="item237346" class="pageItem" alt="*Optional Note">
+        <img src="assets/images/blank.gif" style="top:-5px" alt="*Optional Note" class="svg-img pageItem" data-src="assets/images/item_237346.svg"/>
+      </div>
+      <div id="item262353" class="pageItem" alt="04">
+        <img src="assets/images/blank.gif" style="top:-7px" alt="04" class="svg-img pageItem" data-src="assets/images/item_262353.svg"/>
       </div>
     </div>
-    <div class="page-scale-wrap mq-375" data-layout-name="Mobile" style="width:375px;height:667px;">
-      <div id="item222798" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item205376" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item205377" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item205378" class="pageItem" alt="CONTACT   AGENT NAME  ">
-        <img src="assets/images/blank.gif" style="top:-4px" alt="CONTACT   AGENT NAME  " class="svg-img pageItem" data-src="assets/images/item_205378.svg"/>
+    <div class="page-scale-wrap mq-375" data-layout-name="Mobile" style="width:375px;height:540px;">
+      <div id="item250587" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item244329" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item244330" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item250580" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item250585" class="pageItem" alt="Rectangle">&nbsp;</div>
+      <div id="item244399" class="pageItem" alt="Real Estate Taxes">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Real Estate Taxes" class="svg-img pageItem" data-src="assets/images/item_244399.svg"/>
       </div>
-      <div id="item205403" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item205404" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item205405" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item205406" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <div id="item205407" class="pageItem" alt="SUBJECT PROPERTY LEASE SUMMARY">
-        <img src="assets/images/blank.gif" style="top:-4px" alt="SUBJECT PROPERTY LEASE SUMMARY" class="svg-img pageItem" data-src="assets/images/item_205407.svg"/>
+      <div id="item244424" class="pageItem" alt="Type of Ownership">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Type of Ownership" class="svg-img pageItem" data-src="assets/images/item_244424.svg"/>
       </div>
-      <div id="item205432" class="pageItem" alt="Lease Type Type of Ownership Original Lease Term Commencement Date Lease Expiration Term Remaining Increases Options    ">
-        <img src="assets/images/blank.gif" style="top:-4px" alt="Lease Type Type of Ownership Original Lease Term Commencement Date Lease Expiration Term Remaining Increases Options    " class="svg-img pageItem" data-src="assets/images/item_205432.svg"/>
+      <div id="item244450" class="pageItem" alt="Insurance">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Insurance" class="svg-img pageItem" data-src="assets/images/item_244450.svg"/>
       </div>
-      <div id="item205457" class="pageItem" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum">
-        <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_205457.svg"/>
+      <div id="item244475" class="pageItem" alt="Original Lease Term">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Original Lease Term" class="svg-img pageItem" data-src="assets/images/item_244475.svg"/>
       </div>
-      <div id="item205482" class="pageItem" alt="Real Estate Taxes Insurance Roof & Structure Lease Guarantor Company Name Ownership Years in Business Number of Locat   ">
-        <img src="assets/images/blank.gif" style="top:-4px" alt="Real Estate Taxes Insurance Roof & Structure Lease Guarantor Company Name Ownership Years in Business Number of Locat   " class="svg-img pageItem" data-src="assets/images/item_205482.svg"/>
+      <div id="item244500" class="pageItem" alt="Roof & Structure">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Roof & Structure" class="svg-img pageItem" data-src="assets/images/item_244500.svg"/>
       </div>
-      <div id="item205507" class="pageItem" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum">
-        <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_205507.svg"/>
+      <div id="item244525" class="pageItem" alt="Commencement Date">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Commencement Date" class="svg-img pageItem" data-src="assets/images/item_244525.svg"/>
       </div>
-      <div class="pageItem group" alt="Group" style="left:-143px !important;top:171px !important;" id="item205532">
-        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:196px !important;" id="item205533" data-src="assets/images/item_205533.png"/>
-        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:196px !important;top:18px !important;" id="item205534" data-src="assets/images/item_205534.png"/>
-        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:196px !important;top:36px !important;" id="item205535" data-src="assets/images/item_205535.png"/>
-        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:196px !important;top:54px !important;" id="item205536" data-src="assets/images/item_205536.png"/>
-        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:196px !important;top:72px !important;" id="item205537" data-src="assets/images/item_205537.png"/>
-        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:196px !important;top:90px !important;" id="item205539" data-src="assets/images/item_205539.png"/>
-        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:196px !important;top:108px !important;" id="item205540" data-src="assets/images/item_205540.png"/>
-        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:196px !important;top:126px !important;" id="item205541" data-src="assets/images/item_205541.png"/>
+      <div id="item244576" class="pageItem" alt="Lease Expiration">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lease Expiration" class="svg-img pageItem" data-src="assets/images/item_244576.svg"/>
       </div>
-      <div class="pageItem group" alt="Group" style="left:77px !important;top:171px !important;" id="item205542">
-        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:196px !important;" id="item205543" data-src="assets/images/item_205543.png"/>
-        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:196px !important;top:18px !important;" id="item205544" data-src="assets/images/item_205544.png"/>
-        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:196px !important;top:36px !important;" id="item205545" data-src="assets/images/item_205545.png"/>
-        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:196px !important;top:54px !important;" id="item205546" data-src="assets/images/item_205546.png"/>
-        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:196px !important;top:72px !important;" id="item205547" data-src="assets/images/item_205547.png"/>
-        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:196px !important;top:90px !important;" id="item205548" data-src="assets/images/item_205548.png"/>
-        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:196px !important;top:108px !important;" id="item205549" data-src="assets/images/item_205549.png"/>
-        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:196px !important;top:126px !important;" id="item205550" data-src="assets/images/item_205550.png"/>
+      <div id="item244601" class="pageItem" alt="Company Name">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Company Name" class="svg-img pageItem" data-src="assets/images/item_244601.svg"/>
       </div>
-      <div id="item205551" class="pageItem" alt="Lorem ipsum Lorem ipsum dolor sit unde enim amet, consectetur adipiscing elit, sed omnis qui do eiusmod tempor incidi   ">
-        <img src="assets/images/blank.gif" style="top:-4px" alt="Lorem ipsum Lorem ipsum dolor sit unde enim amet, consectetur adipiscing elit, sed omnis qui do eiusmod tempor incidi   " class="svg-img pageItem" data-src="assets/images/item_205551.svg"/>
+      <div class="pageItem group" alt="Group" style="left:-1015px !important;top:-57px !important;" id="item244776">
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;" id="item244777" data-src="assets/images/item_244777.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:32px !important;" id="item244778" data-src="assets/images/item_244778.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:64px !important;" id="item244779" data-src="assets/images/item_244779.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:95px !important;" id="item244780" data-src="assets/images/item_244780.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:127px !important;" id="item244781" data-src="assets/images/item_244781.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:159px !important;" id="item244782" data-src="assets/images/item_244782.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:191px !important;" id="item244783" data-src="assets/images/item_244783.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:223px !important;" id="item244785" data-src="assets/images/item_244785.png"/>
+      </div>
+      <div class="pageItem group" alt="Group" style="left:-542px !important;top:-57px !important;" id="item244786">
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;" id="item244787" data-src="assets/images/item_244787.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:32px !important;" id="item244788" data-src="assets/images/item_244788.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:64px !important;" id="item244789" data-src="assets/images/item_244789.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:95px !important;" id="item244790" data-src="assets/images/item_244790.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:127px !important;" id="item244791" data-src="assets/images/item_244791.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:159px !important;" id="item244792" data-src="assets/images/item_244792.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:191px !important;" id="item244793" data-src="assets/images/item_244793.png"/>
+        <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:223px !important;" id="item244794" data-src="assets/images/item_244794.png"/>
+      </div>
+      <div id="item244795" class="pageItem" alt="Lorem ipsum Lorem ipsum dolor sit unde enim amet, consectetur adipiscing elit, sed omnis qui do eiusmod tempor incidi   ">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem ipsum Lorem ipsum dolor sit unde enim amet, consectetur adipiscing elit, sed omnis qui do eiusmod tempor incidi   " class="svg-img pageItem" data-src="assets/images/item_244795.svg"/>
+      </div>
+      <div id="item244845" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_244845.svg"/>
+      </div>
+      <div id="item244870" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_244870.svg"/>
+      </div>
+      <div id="item244895" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_244895.svg"/>
+      </div>
+      <div id="item244920" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_244920.svg"/>
+      </div>
+      <div id="item244945" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_244945.svg"/>
+      </div>
+      <div id="item244970" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_244970.svg"/>
+      </div>
+      <div id="item245020" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_245020.svg"/>
+      </div>
+      <div id="item245045" class="pageItem" alt="Lorem Ipsum">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_245045.svg"/>
+      </div>
+      <div id="item245222" class="pageItem" alt="*Optional Note">
+        <img src="assets/images/blank.gif" style="top:-5px" alt="*Optional Note" class="svg-img pageItem" data-src="assets/images/item_245222.svg"/>
+      </div>
+      <div id="item245310" class="pageItem" alt="SUBJECT PROPERTY RETAIL AERIAL">
+        <img src="assets/images/blank.gif" style="top:-6px" alt="SUBJECT PROPERTY RETAIL AERIAL" class="svg-img pageItem" data-src="assets/images/item_245310.svg"/>
       </div>
     </div>
   </li>
   <li class="page">
     <div class="page-scale-wrap mq-792" style="width:792px;height:612px;"><div id="demoNote" class="pageItem">This is a limited preview of <a href="http://in5.ajar.pro" target="_blank">in5</a>. To unlock in5 completely, please <a href="https://ajarproductions.com/pages/products/in5/purchase.php?src=dialog&level=-1" target="_blank">purchase a license</a>.</div></div>
     <div class="page-scale-wrap mq-1920 mq-default" style="width:1920px;height:1080px;"><div id="demoNote" class="pageItem">This is a limited preview of <a href="http://in5.ajar.pro" target="_blank">in5</a>. To unlock in5 completely, please <a href="https://ajarproductions.com/pages/products/in5/purchase.php?src=dialog&level=-1" target="_blank">purchase a license</a>.</div></div>
-    <div class="page-scale-wrap mq-375" style="width:375px;height:667px;"><div id="demoNote" class="pageItem">This is a limited preview of <a href="http://in5.ajar.pro" target="_blank">in5</a>. To unlock in5 completely, please <a href="https://ajarproductions.com/pages/products/in5/purchase.php?src=dialog&level=-1" target="_blank">purchase a license</a>.</div></div>
+    <div class="page-scale-wrap mq-375" style="width:375px;height:482px;"><div id="demoNote" class="pageItem">This is a limited preview of <a href="http://in5.ajar.pro" target="_blank">in5</a>. To unlock in5 completely, please <a href="https://ajarproductions.com/pages/products/in5/purchase.php?src=dialog&level=-1" target="_blank">purchase a license</a>.</div></div>
   </li>
 </ul>
 <div id="prefooter" style="float:left;height:1px;">&nbsp;</div>
