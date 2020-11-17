@@ -52,7 +52,7 @@
         <img src="assets/images/blank.gif" class="pageItem hd" alt="EPS" id="item234958" data-src="assets/images/item_234958.png"/>
       </div>
     </div>
-    <div class="page-scale-wrap mq-375" data-layout-name="Mobile" style="width:375px;height:512px;">
+    <div class="page-scale-wrap mq-375" data-layout-name="Mobile" style="width:375px;height:576px;">
       <div id="item242754" class="pageItem" alt="Rectangle">&nbsp;</div>
       <div id="item242755" class="pageItem" alt="Rectangle">&nbsp;</div>
       <div id="item242756" class="pageItem" alt="TENANT NAME">
@@ -62,7 +62,7 @@
         <img src="assets/images/blank.gif" style="top:-6px" alt="12345 STREET ADDRESS, CITY, STATE ZIP" class="svg-img pageItem" data-src="assets/images/item_242781.svg"/>
       </div>
       <div id="item242815" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Rectangle" style="left:81px !important;top:387px !important;" id="item261993" data-src="assets/images/item_261993.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Rectangle" style="left:81px !important;top:450px !important;" id="item261993" data-src="assets/images/item_261993.png"/>
       <div id="item249949" class="pageItem fauxgroup" alt="Rectangle">
         <img src="assets/images/blank.gif" class="pageItem hd" alt="EPS" id="item249950" data-src="assets/images/item_249950.png"/>
       </div>
@@ -102,8 +102,8 @@
         <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:172px !important;top:90px !important;" id="item24235" data-src="assets/images/item_24235.png"/>
       </div>
       <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:172px !important;left:66px !important;top:269px !important;" id="item24577" data-src="assets/images/item_24577.png"/>
-      <div id="item262787" class="pageItem" alt="02">
-        <img src="assets/images/blank.gif" style="top:-4px" alt="02" class="svg-img pageItem" data-src="assets/images/item_262787.svg"/>
+      <div id="item262849" class="pageItem" alt="02">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="02" class="svg-img pageItem" data-src="assets/images/item_262849.svg"/>
       </div>
       <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:66px !important;top:437px !important;" id="item127240" data-src="assets/images/item_127240.png"/>
       <div id="item127241" class="pageItem" alt="Agent 1">
@@ -151,8 +151,8 @@
         <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:304px !important;top:159px !important;" id="item235151" data-src="assets/images/item_235151.png"/>
       </div>
       <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:304px !important;left:115px !important;top:449px !important;" id="item235152" data-src="assets/images/item_235152.png"/>
-      <div id="item262410" class="pageItem" alt="02">
-        <img src="assets/images/blank.gif" style="top:-7px" alt="02" class="svg-img pageItem" data-src="assets/images/item_262410.svg"/>
+      <div id="item262471" class="pageItem" alt="02">
+        <img src="assets/images/blank.gif" style="top:-7px" alt="02" class="svg-img pageItem" data-src="assets/images/item_262471.svg"/>
       </div>
       <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:116px !important;top:745px !important;" id="item235153" data-src="assets/images/item_235153.png"/>
       <div id="item235154" class="pageItem" alt="Agent 1">
@@ -167,7 +167,7 @@
         <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_235206.svg"/>
       </div>
     </div>
-    <div class="page-scale-wrap mq-375" data-layout-name="Mobile" style="width:375px;height:1093px;">
+    <div class="page-scale-wrap mq-375" data-layout-name="Mobile" style="width:375px;height:1069px;">
       <div id="item250114" class="pageItem" alt="Rectangle">&nbsp;</div>
       <div id="item242851" class="pageItem" alt="12345 STREET ADDRESS, CITY, STATE ZIP">
         <img src="assets/images/blank.gif" style="top:-6px" alt="12345 STREET ADDRESS, CITY, STATE ZIP" class="svg-img pageItem" data-src="assets/images/item_242851.svg"/>
@@ -178,10 +178,10 @@
       <div id="item242876" class="pageItem" alt="Rectangle">&nbsp;</div>
       <div id="item249966" class="pageItem" alt="Rectangle">&nbsp;</div>
       <div id="item249964" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Rectangle" style="left:40px !important;top:739px !important;" id="item250126" data-src="assets/images/item_250126.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Rectangle" style="left:62px !important;top:919px !important;" id="item250142" data-src="assets/images/item_250142.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Rectangle" style="left:239px !important;top:745px !important;" id="item250138" data-src="assets/images/item_250138.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Rectangle" style="left:239px !important;top:919px !important;" id="item250143" data-src="assets/images/item_250143.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Rectangle" style="left:40px !important;top:733px !important;" id="item250126" data-src="assets/images/item_250126.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Rectangle" style="left:62px !important;top:895px !important;" id="item250142" data-src="assets/images/item_250142.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Rectangle" style="left:239px !important;top:739px !important;" id="item250138" data-src="assets/images/item_250138.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Rectangle" style="left:239px !important;top:895px !important;" id="item250143" data-src="assets/images/item_250143.png"/>
       <div id="item242889" class="pageItem" alt="SUBJECT PROPERTY TABLE OF CONTENTS">
         <img src="assets/images/blank.gif" style="top:-6px" alt="SUBJECT PROPERTY TABLE OF CONTENTS" class="svg-img pageItem" data-src="assets/images/item_242889.svg"/>
       </div>
@@ -197,7 +197,7 @@
       <div id="item242989" class="pageItem" alt="03 04 05 07 08 09 10">
         <img src="assets/images/blank.gif" style="top:-6px" alt="03 04 05 07 08 09 10" class="svg-img pageItem" data-src="assets/images/item_242989.svg"/>
       </div>
-      <div class="pageItem group" alt="Group" style="left:-657px !important;top:263px !important;" id="item243014">
+      <div class="pageItem group" alt="Group" style="left:-657px !important;top:251px !important;" id="item243014">
         <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:304px !important;" id="item243015" data-src="assets/images/item_243015.png"/>
         <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:304px !important;top:32px !important;" id="item243016" data-src="assets/images/item_243016.png"/>
         <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:304px !important;top:64px !important;" id="item243017" data-src="assets/images/item_243017.png"/>
@@ -205,11 +205,11 @@
         <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:304px !important;top:127px !important;" id="item243019" data-src="assets/images/item_243019.png"/>
         <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:304px !important;top:159px !important;" id="item243020" data-src="assets/images/item_243020.png"/>
       </div>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:304px !important;left:-657px !important;top:455px !important;" id="item243021" data-src="assets/images/item_243021.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:304px !important;left:-657px !important;top:443px !important;" id="item243021" data-src="assets/images/item_243021.png"/>
       <div id="item243177" class="pageItem" alt="SUBJECT PROPERTY INVESTMENT SUMMARY">
         <img src="assets/images/blank.gif" style="top:-6px" alt="SUBJECT PROPERTY INVESTMENT SUMMARY" class="svg-img pageItem" data-src="assets/images/item_243177.svg"/>
       </div>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:32px !important;top:329px !important;" id="item243666" data-src="assets/images/item_243666.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:32px !important;top:341px !important;" id="item243666" data-src="assets/images/item_243666.png"/>
       <div id="item243668" class="pageItem" alt="Agent 1">
         <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_243668.svg"/>
       </div>
@@ -228,11 +228,11 @@
       <div id="item243920" class="pageItem" alt="Agent 1">
         <img src="assets/images/blank.gif" style="top:-6px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_243920.svg"/>
       </div>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:32px !important;top:424px !important;" id="item243970" data-src="assets/images/item_243970.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:32px !important;top:519px !important;" id="item243972" data-src="assets/images/item_243972.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:32px !important;top:320px !important;mix-blend-mode:overlay;" id="item243974" data-src="assets/images/item_243974.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:32px !important;top:415px !important;mix-blend-mode:overlay;" id="item244024" data-src="assets/images/item_244024.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:32px !important;top:510px !important;mix-blend-mode:overlay;" id="item244074" data-src="assets/images/item_244074.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:32px !important;top:436px !important;" id="item243970" data-src="assets/images/item_243970.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:32px !important;top:532px !important;" id="item243972" data-src="assets/images/item_243972.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:32px !important;top:332px !important;mix-blend-mode:overlay;" id="item243974" data-src="assets/images/item_243974.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:32px !important;top:427px !important;mix-blend-mode:overlay;" id="item244024" data-src="assets/images/item_244024.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:32px !important;top:523px !important;mix-blend-mode:overlay;" id="item244074" data-src="assets/images/item_244074.png"/>
       <div id="item244124" class="pageItem" alt=" ">
         <img src="assets/images/blank.gif" style="top:-13px" alt=" " class="svg-img pageItem" data-src="assets/images/item_244124.svg"/>
       </div>
@@ -242,11 +242,11 @@
       <div id="item244174" class="pageItem" alt="%">
         <img src="assets/images/blank.gif" style="top:-13px" alt="%" class="svg-img pageItem" data-src="assets/images/item_244174.svg"/>
       </div>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:408px !important;" id="item250105" data-src="assets/images/item_250105.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:505px !important;" id="item250106" data-src="assets/images/item_250106.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:597px !important;" id="item250107" data-src="assets/images/item_250107.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:629px !important;" id="item250108" data-src="assets/images/item_250108.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:661px !important;" id="item250109" data-src="assets/images/item_250109.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:420px !important;" id="item250105" data-src="assets/images/item_250105.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:518px !important;" id="item250106" data-src="assets/images/item_250106.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:610px !important;" id="item250107" data-src="assets/images/item_250107.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:641px !important;" id="item250108" data-src="assets/images/item_250108.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:673px !important;" id="item250109" data-src="assets/images/item_250109.png"/>
       <div id="item243693" class="pageItem" alt="Agent 1">
         <img src="assets/images/blank.gif" style="top:-6px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_243693.svg"/>
       </div>
@@ -283,16 +283,16 @@
       <div id="item243606" class="pageItem" alt="Lorem Ipsum">
         <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem Ipsum" class="svg-img pageItem" data-src="assets/images/item_243606.svg"/>
       </div>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Rectangle" style="left:586px !important;top:346px !important;" id="item261932" data-src="assets/images/item_261932.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:-657px !important;top:751px !important;" id="item243022" data-src="assets/images/item_243022.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Rectangle" style="left:586px !important;top:334px !important;" id="item261932" data-src="assets/images/item_261932.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:-657px !important;top:740px !important;" id="item243022" data-src="assets/images/item_243022.png"/>
       <div id="item243024" class="pageItem" alt="Agent 1">
         <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_243024.svg"/>
       </div>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:-657px !important;top:643px !important;" id="item243049" data-src="assets/images/item_243049.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:-657px !important;top:631px !important;" id="item243049" data-src="assets/images/item_243049.png"/>
       <div id="item243050" class="pageItem" alt="Agent 1">
         <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_243050.svg"/>
       </div>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:-657px !important;top:534px !important;" id="item243075" data-src="assets/images/item_243075.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:-657px !important;top:522px !important;" id="item243075" data-src="assets/images/item_243075.png"/>
       <div id="item243076" class="pageItem" alt="Agent 1">
         <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_243076.svg"/>
       </div>
@@ -443,8 +443,8 @@
       <div id="item132557" class="pageItem" alt=" ">
         <img src="assets/images/blank.gif" style="top:-7px" alt=" " class="svg-img pageItem" data-src="assets/images/item_132557.svg"/>
       </div>
-      <div id="item262762" class="pageItem" alt="03">
-        <img src="assets/images/blank.gif" style="top:-4px" alt="03" class="svg-img pageItem" data-src="assets/images/item_262762.svg"/>
+      <div id="item262824" class="pageItem" alt="03">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="03" class="svg-img pageItem" data-src="assets/images/item_262824.svg"/>
       </div>
     </div>
     <div class="page-scale-wrap mq-1920 mq-default" data-layout-name="Desktop" style="width:1920px;height:1080px;">
@@ -591,11 +591,11 @@
       <div id="item236361" class="pageItem" alt=" ">
         <img src="assets/images/blank.gif" style="top:-13px" alt=" " class="svg-img pageItem" data-src="assets/images/item_236361.svg"/>
       </div>
-      <div id="item262384" class="pageItem" alt="03">
-        <img src="assets/images/blank.gif" style="top:-7px" alt="03" class="svg-img pageItem" data-src="assets/images/item_262384.svg"/>
+      <div id="item262445" class="pageItem" alt="03">
+        <img src="assets/images/blank.gif" style="top:-7px" alt="03" class="svg-img pageItem" data-src="assets/images/item_262445.svg"/>
       </div>
     </div>
-    <div class="page-scale-wrap mq-375" data-layout-name="Mobile" style="width:375px;height:904px;">
+    <div class="page-scale-wrap mq-375" data-layout-name="Mobile" style="width:375px;height:971px;">
       <div id="item250287" class="pageItem" alt="Rectangle">&nbsp;</div>
       <div id="item244304" class="pageItem" alt="CONTACT   AGENT NAME  ">
         <img src="assets/images/blank.gif" style="top:-6px" alt="CONTACT   AGENT NAME  " class="svg-img pageItem" data-src="assets/images/item_244304.svg"/>
@@ -604,10 +604,10 @@
       <div id="item243157" class="pageItem" alt="Rectangle">&nbsp;</div>
       <div id="item250285" class="pageItem" alt="Rectangle">&nbsp;</div>
       <div id="item250283" class="pageItem" alt="Rectangle">&nbsp;</div>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Rectangle" style="left:62px !important;top:617px !important;" id="item250565" data-src="assets/images/item_250565.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Rectangle" style="left:62px !important;top:761px !important;" id="item250567" data-src="assets/images/item_250567.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Rectangle" style="left:239px !important;top:617px !important;" id="item250568" data-src="assets/images/item_250568.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Rectangle" style="left:228px !important;top:761px !important;" id="item250569" data-src="assets/images/item_250569.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Rectangle" style="left:62px !important;top:641px !important;" id="item250565" data-src="assets/images/item_250565.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Rectangle" style="left:62px !important;top:797px !important;" id="item250567" data-src="assets/images/item_250567.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Rectangle" style="left:239px !important;top:641px !important;" id="item250568" data-src="assets/images/item_250568.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Rectangle" style="left:228px !important;top:797px !important;" id="item250569" data-src="assets/images/item_250569.png"/>
       <div id="item243229" class="pageItem" alt="Street Address">
         <img src="assets/images/blank.gif" style="top:-6px" alt="Street Address" class="svg-img pageItem" data-src="assets/images/item_243229.svg"/>
       </div>
@@ -638,7 +638,7 @@
       <div id="item243631" class="pageItem" alt="Lorem ipsum Lorem ipsum dolor sit unde enim amet, consectetur adipiscing elit, sed omnis qui do eiusmod tempor incidi   ">
         <img src="assets/images/blank.gif" style="top:-6px" alt="Lorem ipsum Lorem ipsum dolor sit unde enim amet, consectetur adipiscing elit, sed omnis qui do eiusmod tempor incidi   " class="svg-img pageItem" data-src="assets/images/item_243631.svg"/>
       </div>
-      <div class="pageItem group" alt="Group" style="left:-969px !important;top:147px !important;" id="item243656">
+      <div class="pageItem group" alt="Group" style="left:-969px !important;top:180px !important;" id="item243656">
         <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:413px !important;" id="item243657" data-src="assets/images/item_243657.png"/>
         <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:413px !important;top:32px !important;" id="item243658" data-src="assets/images/item_243658.png"/>
         <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:413px !important;top:64px !important;" id="item243659" data-src="assets/images/item_243659.png"/>
@@ -648,18 +648,18 @@
         <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:413px !important;top:191px !important;" id="item243664" data-src="assets/images/item_243664.png"/>
         <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:413px !important;top:223px !important;" id="item243665" data-src="assets/images/item_243665.png"/>
       </div>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:-245px !important;top:113px !important;" id="item243667" data-src="assets/images/item_243667.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:-245px !important;top:147px !important;" id="item243667" data-src="assets/images/item_243667.png"/>
       <div id="item243743" class="pageItem" alt="Agent 1">
         <img src="assets/images/blank.gif" style="top:-10px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_243743.svg"/>
       </div>
       <div id="item243894" class="pageItem" alt="Agent 1">
         <img src="assets/images/blank.gif" style="top:-6px" alt="Agent 1" class="svg-img pageItem" data-src="assets/images/item_243894.svg"/>
       </div>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:-245px !important;top:209px !important;" id="item243971" data-src="assets/images/item_243971.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:-245px !important;top:304px !important;" id="item243973" data-src="assets/images/item_243973.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:-245px !important;top:104px !important;mix-blend-mode:overlay;" id="item243999" data-src="assets/images/item_243999.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:-245px !important;top:200px !important;mix-blend-mode:overlay;" id="item244049" data-src="assets/images/item_244049.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:-245px !important;top:295px !important;mix-blend-mode:overlay;" id="item244099" data-src="assets/images/item_244099.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:-245px !important;top:242px !important;" id="item243971" data-src="assets/images/item_243971.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:-245px !important;top:337px !important;" id="item243973" data-src="assets/images/item_243973.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:-245px !important;top:138px !important;mix-blend-mode:overlay;" id="item243999" data-src="assets/images/item_243999.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:-245px !important;top:233px !important;mix-blend-mode:overlay;" id="item244049" data-src="assets/images/item_244049.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:-245px !important;top:328px !important;mix-blend-mode:overlay;" id="item244099" data-src="assets/images/item_244099.png"/>
       <div id="item244199" class="pageItem" alt="%">
         <img src="assets/images/blank.gif" style="top:-13px" alt="%" class="svg-img pageItem" data-src="assets/images/item_244199.svg"/>
       </div>
@@ -672,20 +672,20 @@
       <div id="item244349" class="pageItem" alt="SUBJECT PROPERTY LEASE SUMMARY">
         <img src="assets/images/blank.gif" style="top:-6px" alt="SUBJECT PROPERTY LEASE SUMMARY" class="svg-img pageItem" data-src="assets/images/item_244349.svg"/>
       </div>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:32px !important;top:329px !important;" id="item250290" data-src="assets/images/item_250290.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:32px !important;top:424px !important;" id="item250293" data-src="assets/images/item_250293.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:32px !important;top:320px !important;mix-blend-mode:overlay;" id="item250298" data-src="assets/images/item_250298.png"/>
-      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:32px !important;top:415px !important;mix-blend-mode:overlay;" id="item250323" data-src="assets/images/item_250323.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:32px !important;top:341px !important;" id="item250290" data-src="assets/images/item_250290.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="Agent 1 - Photo" style="left:32px !important;top:436px !important;" id="item250293" data-src="assets/images/item_250293.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:32px !important;top:332px !important;mix-blend-mode:overlay;" id="item250298" data-src="assets/images/item_250298.png"/>
+      <img src="assets/images/blank.gif" class="pageItem hd" alt="TextFrame" style="left:32px !important;top:427px !important;mix-blend-mode:overlay;" id="item250323" data-src="assets/images/item_250323.png"/>
       <div id="item250374" class="pageItem" alt=" ">
         <img src="assets/images/blank.gif" style="top:-13px" alt=" " class="svg-img pageItem" data-src="assets/images/item_250374.svg"/>
       </div>
       <div id="item250424" class="pageItem" alt="%">
         <img src="assets/images/blank.gif" style="top:-13px" alt="%" class="svg-img pageItem" data-src="assets/images/item_250424.svg"/>
       </div>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:408px !important;" id="item250449" data-src="assets/images/item_250449.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:505px !important;" id="item250451" data-src="assets/images/item_250451.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:537px !important;" id="item250453" data-src="assets/images/item_250453.png"/>
-      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:569px !important;" id="item250454" data-src="assets/images/item_250454.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:420px !important;" id="item250449" data-src="assets/images/item_250449.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:518px !important;" id="item250451" data-src="assets/images/item_250451.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:549px !important;" id="item250453" data-src="assets/images/item_250453.png"/>
+      <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:311px !important;left:32px !important;top:581px !important;" id="item250454" data-src="assets/images/item_250454.png"/>
       <div id="item244374" class="pageItem" alt="Lease Type">
         <img src="assets/images/blank.gif" style="top:-6px" alt="Lease Type" class="svg-img pageItem" data-src="assets/images/item_244374.svg"/>
       </div>
@@ -873,8 +873,8 @@
       <div id="item234817" class="pageItem" alt="*Optional Note">
         <img src="assets/images/blank.gif" style="top:-3px" alt="*Optional Note" class="svg-img pageItem" data-src="assets/images/item_234817.svg"/>
       </div>
-      <div id="item262737" class="pageItem" alt="04">
-        <img src="assets/images/blank.gif" style="top:-4px" alt="04" class="svg-img pageItem" data-src="assets/images/item_262737.svg"/>
+      <div id="item262799" class="pageItem" alt="04">
+        <img src="assets/images/blank.gif" style="top:-4px" alt="04" class="svg-img pageItem" data-src="assets/images/item_262799.svg"/>
       </div>
     </div>
     <div class="page-scale-wrap mq-1920 mq-default" data-layout-name="Desktop" style="width:1920px;height:1080px;">
@@ -1013,11 +1013,11 @@
       <div id="item237346" class="pageItem" alt="*Optional Note">
         <img src="assets/images/blank.gif" style="top:-5px" alt="*Optional Note" class="svg-img pageItem" data-src="assets/images/item_237346.svg"/>
       </div>
-      <div id="item262357" class="pageItem" alt="04">
-        <img src="assets/images/blank.gif" style="top:-7px" alt="04" class="svg-img pageItem" data-src="assets/images/item_262357.svg"/>
+      <div id="item262418" class="pageItem" alt="04">
+        <img src="assets/images/blank.gif" style="top:-7px" alt="04" class="svg-img pageItem" data-src="assets/images/item_262418.svg"/>
       </div>
     </div>
-    <div class="page-scale-wrap mq-375" data-layout-name="Mobile" style="width:375px;height:540px;">
+    <div class="page-scale-wrap mq-375" data-layout-name="Mobile" style="width:375px;height:582px;">
       <div id="item250587" class="pageItem" alt="Rectangle">&nbsp;</div>
       <div id="item244329" class="pageItem" alt="Rectangle">&nbsp;</div>
       <div id="item244330" class="pageItem" alt="Rectangle">&nbsp;</div>
@@ -1047,7 +1047,7 @@
       <div id="item244601" class="pageItem" alt="Company Name">
         <img src="assets/images/blank.gif" style="top:-6px" alt="Company Name" class="svg-img pageItem" data-src="assets/images/item_244601.svg"/>
       </div>
-      <div class="pageItem group" alt="Group" style="left:-1015px !important;top:-57px !important;" id="item244776">
+      <div class="pageItem group" alt="Group" style="left:-1015px !important;top:-36px !important;" id="item244776">
         <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;" id="item244777" data-src="assets/images/item_244777.png"/>
         <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:32px !important;" id="item244778" data-src="assets/images/item_244778.png"/>
         <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:64px !important;" id="item244779" data-src="assets/images/item_244779.png"/>
@@ -1057,7 +1057,7 @@
         <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:191px !important;" id="item244783" data-src="assets/images/item_244783.png"/>
         <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:223px !important;" id="item244785" data-src="assets/images/item_244785.png"/>
       </div>
-      <div class="pageItem group" alt="Group" style="left:-542px !important;top:-57px !important;" id="item244786">
+      <div class="pageItem group" alt="Group" style="left:-542px !important;top:-36px !important;" id="item244786">
         <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;" id="item244787" data-src="assets/images/item_244787.png"/>
         <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:32px !important;" id="item244788" data-src="assets/images/item_244788.png"/>
         <img src="assets/images/blank.gif" class="pageItem" alt="GraphicLine" style="width:430px !important;top:64px !important;" id="item244789" data-src="assets/images/item_244789.png"/>
@@ -1105,7 +1105,7 @@
   <li class="page">
     <div class="page-scale-wrap mq-792" style="width:792px;height:612px;"><div id="demoNote" class="pageItem">This is a limited preview of <a href="http://in5.ajar.pro" target="_blank">in5</a>. To unlock in5 completely, please <a href="https://ajarproductions.com/pages/products/in5/purchase.php?src=dialog&level=-1" target="_blank">purchase a license</a>.</div></div>
     <div class="page-scale-wrap mq-1920 mq-default" style="width:1920px;height:1080px;"><div id="demoNote" class="pageItem">This is a limited preview of <a href="http://in5.ajar.pro" target="_blank">in5</a>. To unlock in5 completely, please <a href="https://ajarproductions.com/pages/products/in5/purchase.php?src=dialog&level=-1" target="_blank">purchase a license</a>.</div></div>
-    <div class="page-scale-wrap mq-375" style="width:375px;height:512px;"><div id="demoNote" class="pageItem">This is a limited preview of <a href="http://in5.ajar.pro" target="_blank">in5</a>. To unlock in5 completely, please <a href="https://ajarproductions.com/pages/products/in5/purchase.php?src=dialog&level=-1" target="_blank">purchase a license</a>.</div></div>
+    <div class="page-scale-wrap mq-375" style="width:375px;height:576px;"><div id="demoNote" class="pageItem">This is a limited preview of <a href="http://in5.ajar.pro" target="_blank">in5</a>. To unlock in5 completely, please <a href="https://ajarproductions.com/pages/products/in5/purchase.php?src=dialog&level=-1" target="_blank">purchase a license</a>.</div></div>
   </li>
 </ul>
 <div id="prefooter" style="float:left;height:1px;">&nbsp;</div>
